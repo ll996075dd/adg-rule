@@ -41,7 +41,7 @@ jobs:
             echo "status=success" >> $GITHUB_OUTPUT
             git add .
             git config --local user.email "shiren9960@qq.com"
-            git config --local user.name "15707909155Lx"
+            git config --local user.name "ll996075dd"
             git commit -m "CI Updated at $(date +'%Y-%m-%d %H:%M:%S')" -a
           fi
 
