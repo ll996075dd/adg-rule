@@ -24,7 +24,7 @@ application:
       - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
       - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
       - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      #- 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
+      - 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
       - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
       - 'https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt'
@@ -47,6 +47,7 @@ application:
       - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt'
       - 'https://file-git.trli.club/file-hosts/ad-hosts/hosts'
       - 'https://file-git.trli.club/file-hosts/ad-hosts/adblock'
+      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt'
       - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/2771936993/HG/main/yx.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
