@@ -12,43 +12,13 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
-      - 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt' #Scam Blocklist
-      - 'https://someonewhocares.org/hosts/zero/hosts' #Dan Pollock's List
-      - 'https://cdn.jsdelivr.net/gh/AdguardTeam/FiltersRegistry/filters/filter_15_DnsFilter/filter.txt' #AdGuard DNS filter
-      - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext' #Peter Lowe's List
-      - 'https://abp.oisd.nl/basic/' #OISD Blocklist Basic
-      - 'https://adaway.org/hosts.txt' #AdAway Default Blocklist
-      - 'https://cdn.jsdelivr.net/gh/crazy-max/WindowsSpyBlocker/data/hosts/spy.txt' #WindowsSpyBlocker
-      - 'https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad-pc.txt' #HalfLife（pc）
-      - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt' #Adgk
-      - 'https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts.txt' #yhosts
-      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #大圣净化
-      - 'https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list' #Domains classified as tracking or advertising
-      - 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt' #AdRules AdGuard Full List
-      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
-      - 'https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt'
-      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/2771936993/HG/main/yx.txt'
-      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
-      - 'https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto.txt'
-      - 'https://github.tmby.shop/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
-      - 'http://rssv.cn/adguard/api.php?type=black'
-      - 'https://mirror.ghproxy.com/raw.githubusercontent.com/Lynricsy/HyperADRules/master/rules.txt'
-      - 'https://ad.yuwell.dynv6.net/adblock.txt'
-      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/lingeringsound/adblock_auto/main/Rules/adblock_auto.txt'
-      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt'
-      - 'https://raw.gitmirror.com/TTDNS/Cat/main/DNS.TXT'
-      - 'https://gitdl.cn/https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt'
-      - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt'
-      - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt'
-      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt'
-      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt'
-      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt'
-      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt'
-      - 'https://file-git.trli.club/file-hosts/ad-hosts/hosts'
-      - 'https://file-git.trli.club/file-hosts/ad-hosts/adblock'
-      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt'
-      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/2771936993/HG/main/yx.txt'
+      - 'https://file-git.trli.club/file-hosts/ad-hosts/adblock'  #adblock-nocoin-list
+      - 'https://file-git.trli.club/file-hosts/ad-hosts/hosts' #Scam Blocklist
+      - 'https://raw.githubusercontent.com/ll996075dd/Blacklist/main/1.txt' #Dan Pollock's List
+      - 'https://github.tmby.shop/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #AdGuard DNS filter
+      - 'http://rssv.cn/adguard/api.php?type=black' #Peter Lowe's List
+      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/2771936993/HG/main/yx.txt' #OISD Blocklist Basic
+      - 'https://gitdl.cn/https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #AdAway Default Blocklist
       - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
