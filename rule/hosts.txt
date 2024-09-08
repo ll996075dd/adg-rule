@@ -1,4 +1,4 @@
-# Update time: 2024-09-08 16:25:37
+# Update time: 2024-09-09 00:26:36
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -1279,6 +1279,7 @@
 127.0.0.1 coertiest.click
 127.0.0.1 ads.servebom.com
 127.0.0.1 ad.8live.com
+127.0.0.1 dsad234.fun
 127.0.0.1 tt.toponad.com
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 www.cometosomesense.pro
@@ -14805,6 +14806,7 @@
 127.0.0.1 snadsfit.com
 127.0.0.1 p11-orange.byteorge.com
 127.0.0.1 adaptv.advertising.com
+127.0.0.1 ace-adserver.com
 127.0.0.1 analytics.ratioform.ch
 127.0.0.1 ps-us.amazon-adsystem.com
 127.0.0.1 www.usepriorityadvertising.com
@@ -18119,6 +18121,7 @@
 127.0.0.1 www.armorlest.click
 127.0.0.1 app.slimads.vn
 127.0.0.1 olx-pl.dena-jakr.pro
+127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 fofka.lixprog.click
 127.0.0.1 tripadvisor-longterm-preview1671.wihomerentals.com
 127.0.0.1 ads.platform.zalo.me
