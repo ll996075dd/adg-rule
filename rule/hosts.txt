@@ -1,4 +1,4 @@
-# Update time: 2024-09-09 16:29:52
+# Update time: 2024-09-10 00:27:45
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -18982,6 +18982,7 @@
 127.0.0.1 strachludzi.click
 127.0.0.1 4444444.activpl-pro.site
 127.0.0.1 www.advancepeak.info
+127.0.0.1 larnaxhexact.click
 127.0.0.1 share.polinvst.com
 127.0.0.1 f53ad9059d.com
 127.0.0.1 pertinentadvancedpotter.com
@@ -20224,6 +20225,7 @@
 127.0.0.1 www.anemicznyczlowiek.click
 127.0.0.1 ad.mediawayss.com
 127.0.0.1 www.ad1.ero-advertising.com
+127.0.0.1 static.ad.libimseti.cz
 127.0.0.1 monitorujemypojazdy.click
 127.0.0.1 author.bloggerads.net
 127.0.0.1 extralarge-proposal.pro
@@ -27141,6 +27143,7 @@
 127.0.0.1 adserver.bluereactor.com
 127.0.0.1 adobe.autoscout24.com.tr
 127.0.0.1 www.visner.click
+127.0.0.1 adsenix.com
 127.0.0.1 overexpose.pro
 127.0.0.1 alarmujacewydarzenie.click
 127.0.0.1 api.yieldlove-ad-serving.net
