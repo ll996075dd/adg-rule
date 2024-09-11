@@ -1,4 +1,4 @@
-# Update time: 2024-09-11 00:27:22
+# Update time: 2024-09-11 09:42:40
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -3012,6 +3012,7 @@
 127.0.0.1 cp-home-pl-691aad34cfe.solidinterimmanagement.nl
 127.0.0.1 sax1.sina.com.cn
 127.0.0.1 preen.pro
+127.0.0.1 help-center-for-business-open-appeal.mkt5support.cyou
 127.0.0.1 pub-4d0a115db8fb4f15a6bf3059fadf5ec9.r2.dev
 127.0.0.1 project.projectprog.click
 127.0.0.1 h-adashx4yt.ut.taobao.com
@@ -8175,6 +8176,7 @@
 127.0.0.1 www.omowieniainfo.click
 127.0.0.1 api-access.pangolin-sdk-toutiao28.com
 127.0.0.1 operate-sdk-telemetry.unity3d.com
+127.0.0.1 www.interia-support.check-domain.online
 127.0.0.1 www.serenadeescelestialing.pro
 127.0.0.1 inpostpl.medaoff1.click
 127.0.0.1 tr-eu.adsmoloco.com
@@ -23647,6 +23649,7 @@
 127.0.0.1 adsmis.duxiaoman.com
 127.0.0.1 pub-23354ce60e01474fa600cbca2caadc73.r2.dev
 127.0.0.1 www.gazetacodzienna.click
+127.0.0.1 www.help-center-for-business-open-appeal.mkt5support.cyou
 127.0.0.1 ad-m.asia
 127.0.0.1 hw-cdn.trafficjunky.net
 127.0.0.1 ad16digital.checkm8.com
@@ -25140,6 +25143,7 @@
 127.0.0.1 ad.slashgear.com
 127.0.0.1 material.mediav.com
 127.0.0.1 odnajdzmypirata.click
+127.0.0.1 interia-support.check-domain.online
 127.0.0.1 wlaczamyslenie.click
 127.0.0.1 mobi-mobi.info
 127.0.0.1 yoyadsdom.com
