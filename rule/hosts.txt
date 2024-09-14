@@ -1,4 +1,4 @@
-# Update time: 2024-09-14 09:42:02
+# Update time: 2024-09-14 16:27:33
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -1335,7 +1335,6 @@
 127.0.0.1 www.360ads.com
 127.0.0.1 www.kontroladowodowa.click
 127.0.0.1 miejskiedoniesienia.click
-127.0.0.1 adsroducts.com
 127.0.0.1 www.vipads.cc
 127.0.0.1 kilomniadst.info
 127.0.0.1 pub-4d086c3864a04005add45e7a2e607b82.r2.dev
@@ -1773,7 +1772,6 @@
 127.0.0.1 ntvsporweb.api.useinsider.com
 127.0.0.1 api.attentivemobile.com
 127.0.0.1 pub-4c21f9ae11ad4cd99bef29a7124c22ce.r2.dev
-127.0.0.1 web3protocols.pro
 127.0.0.1 www.potracildziewczynke.click
 127.0.0.1 ads.virtual-nights.com
 127.0.0.1 api.content-ad.net
@@ -3905,6 +3903,7 @@
 127.0.0.1 click.phanquang.vn
 127.0.0.1 zagininyfakt.click
 127.0.0.1 plugin.mobopay.baidu.com
+127.0.0.1 adshere.online
 127.0.0.1 www3.hot-mob.com
 127.0.0.1 dm.sanwen.net
 127.0.0.1 adsrevenue.net
@@ -6982,7 +6981,6 @@
 127.0.0.1 tronads.io
 127.0.0.1 lplos.tentaklsistem.click
 127.0.0.1 analytics-ingestion.pbpms.de
-127.0.0.1 amazonprimevideo.pro
 127.0.0.1 pub-3bffa214138e4a558345219a26fad5ee.r2.dev
 127.0.0.1 adveng.hiasys.com
 127.0.0.1 blog1.tx1tx.click
@@ -8675,7 +8673,6 @@
 127.0.0.1 api-internal-dev.oncustomer.asia
 127.0.0.1 pub-b50adc5d699a4f08aec37102c2103da7.r2.dev
 127.0.0.1 ladsblue.com
-127.0.0.1 securevi.pro
 127.0.0.1 uapi.ads.oppomobile.com
 127.0.0.1 www.adv.axiatraders.com
 127.0.0.1 sax5.sina.com.cn
@@ -15798,7 +15795,6 @@
 127.0.0.1 web3-api.in
 127.0.0.1 www.wstepneustalenia.click
 127.0.0.1 soyjak.download
-127.0.0.1 www-laposote-frm.click
 127.0.0.1 www.tematkoleje.click
 127.0.0.1 z9.cnzz.com
 127.0.0.1 img.layer-ads.de
@@ -17323,6 +17319,7 @@
 127.0.0.1 advert.runescape.com
 127.0.0.1 www.hosting2021623.online.pro
 127.0.0.1 askjolene.ero-advertising.com
+127.0.0.1 yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 advsdkreport-def.tt.cn
 127.0.0.1 www.muvowuufaf.pro
 127.0.0.1 ads.icq.com
@@ -19379,6 +19376,7 @@
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 127.0.0.1 traffic-exchange.tv
+127.0.0.1 dsads55.fun
 127.0.0.1 www.ec0adn1ure.quest
 127.0.0.1 skyadvert.su
 127.0.0.1 www.pub-aeed3752f2844d42ada6ae0ec9107cee.r2.dev
@@ -19401,6 +19399,7 @@
 127.0.0.1 fadf617f13.com
 127.0.0.1 adserver.tweakers.net
 127.0.0.1 api-access.pangolin-sdk-toutiao29.com
+127.0.0.1 yyceztc8.click
 127.0.0.1 analytics.uwindsor.ca
 127.0.0.1 most-online.pro
 127.0.0.1 www.drawermop.click
@@ -19436,6 +19435,7 @@
 127.0.0.1 starannepismo.click
 127.0.0.1 porannatragedia.click
 127.0.0.1 pub-00ad3e5fc48344368a5c3cff8615e38e.r2.dev
+127.0.0.1 runnionpox.click
 127.0.0.1 ad1.adtitan.net
 127.0.0.1 adssl01.adtech.us
 127.0.0.1 www.doubleclick.ne.jp
@@ -20795,6 +20795,7 @@
 127.0.0.1 www.api-apsx.com
 127.0.0.1 c.tr.msn.com
 127.0.0.1 adv.ettoday.net
+127.0.0.1 wwe.hbhjjbjh.dns-dynamic.net
 127.0.0.1 newspost.pro
 127.0.0.1 www.zgonnapasach.click
 127.0.0.1 shoppyoccults.click
@@ -21458,6 +21459,7 @@
 127.0.0.1 de5fa90d2cf60b04ada42b9839e97123.agnethentf.pl
 127.0.0.1 www.pijm-mssg.click
 127.0.0.1 rough-requirement.pro
+127.0.0.1 booking.com-admin-partner.one
 127.0.0.1 napkinestangentes.pro
 127.0.0.1 v16-ad.ixigua.com
 127.0.0.1 ads.planet-f1.com
@@ -22796,6 +22798,7 @@
 127.0.0.1 www.opads.ero-advertising.com
 127.0.0.1 www.sexyads.net
 127.0.0.1 www.townshipforeheadaluminumed.pro
+127.0.0.1 pub-8096fad52b1245db89c562ae1a44e8c3.r2.dev
 127.0.0.1 analytics.theta360.com
 127.0.0.1 scuttercoaxing.click
 127.0.0.1 www.cadsolutions.org
@@ -23077,7 +23080,6 @@
 127.0.0.1 www.morefrequent.pro
 127.0.0.1 p1.adkwai.com
 127.0.0.1 nht-3.extreme-dm.com
-127.0.0.1 pub-c1d99d2b27ac496986ad6bf70538fa31.r2.dev
 127.0.0.1 youthfulcontest.pro
 127.0.0.1 ad.tapthislink.com
 127.0.0.1 track.superad2.com.sg
