@@ -1,4 +1,4 @@
-# Update time: 2024-09-14 16:27:33
+# Update time: 2024-09-15 00:26:09
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -1464,7 +1464,6 @@
 127.0.0.1 www.stronaprawna.click
 127.0.0.1 click.newsportal.me
 127.0.0.1 www.update-1.com
-127.0.0.1 greenfieldinvestment.pro
 127.0.0.1 ads.alt.com
 127.0.0.1 pro.heiguang.com
 127.0.0.1 wpr.hot-mob.com
@@ -4817,7 +4816,6 @@
 127.0.0.1 www.crypto-nation-pro.com
 127.0.0.1 x21.xtnew.click
 127.0.0.1 super-download.com
-127.0.0.1 www.promocyjnezakupy.click
 127.0.0.1 amistad360.com
 127.0.0.1 www.nl2.ero-advertising.com
 127.0.0.1 partlyinghelmetsteeped.pro
@@ -4972,7 +4970,6 @@
 127.0.0.1 swietnechwile.click
 127.0.0.1 kolizyjnefakty.click
 127.0.0.1 pub-e1d34e0784194efbada487da7667e08a.r2.dev
-127.0.0.1 onyxprofit.pro
 127.0.0.1 adx3.iq39.com
 127.0.0.1 elonxx.projectprog.click
 127.0.0.1 wszyscyskupieni.click
@@ -5029,7 +5026,6 @@
 127.0.0.1 adsrv.me
 127.0.0.1 infatuated-difference.pro
 127.0.0.1 vn-nhanquatang.click
-127.0.0.1 www.adslanding.com
 127.0.0.1 ph-ad11.focalink.com
 127.0.0.1 1chat.pro-masters.xyz
 127.0.0.1 www.wszystkominie.click
@@ -10793,7 +10789,6 @@
 127.0.0.1 inpost.mobi
 127.0.0.1 www.wiesciosiedla.click
 127.0.0.1 adsharedwi897th.cfd
-127.0.0.1 honestcapital.pro
 127.0.0.1 ads05.win888b.com
 127.0.0.1 adv7ntureh7nters15.online
 127.0.0.1 conde.adsame.com
@@ -11103,7 +11098,6 @@
 127.0.0.1 www.safestrategywatch.click
 127.0.0.1 analytics.telewebion.com
 127.0.0.1 ma479-r.analytics.edgekey.net
-127.0.0.1 fenix-funds.pro
 127.0.0.1 www.go2cup.pro
 127.0.0.1 analytics-consent-manager-v2-prod.azureedge.net
 127.0.0.1 mores.toponad.com
@@ -12366,7 +12360,6 @@
 127.0.0.1 analytics.yugen.to
 127.0.0.1 api.ea.eulerian.net
 127.0.0.1 enchantedechoescam.click
-127.0.0.1 investpoint.pro
 127.0.0.1 ads.carmudi.vn
 127.0.0.1 www.oistatniarundka.click
 127.0.0.1 bid.adview.cn
@@ -12663,7 +12656,6 @@
 127.0.0.1 hb-analytics.hotstar.com
 127.0.0.1 viva.api.xiaoying.co
 127.0.0.1 byr9k.everadpro.click
-127.0.0.1 titan-man.pro
 127.0.0.1 s112.cnzz.com
 127.0.0.1 14128abc1e40af506a4ad373d35c5ced.wurp.pl
 127.0.0.1 dramatycznedni.click
@@ -13340,7 +13332,6 @@
 127.0.0.1 sgn-mta.com
 127.0.0.1 ad.digitallook.com
 127.0.0.1 munion.mediav.com
-127.0.0.1 www.metarseweb.pro
 127.0.0.1 images.update.lennar.com
 127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 dm.syntelli.com
@@ -14126,7 +14117,6 @@
 127.0.0.1 cdn.hot-mob.com
 127.0.0.1 www.pub-9d1e91d1ad324ccfa4f55f2a7fceee49.r2.dev
 127.0.0.1 zaradczynews.click
-127.0.0.1 www.titan-man.pro
 127.0.0.1 www.glownewydanie.click
 127.0.0.1 gusoqau.pro
 127.0.0.1 olx-paysera.pro
@@ -15504,7 +15494,6 @@
 127.0.0.1 www.qaxedee8.pro
 127.0.0.1 tex.ero-advertising.com
 127.0.0.1 api.leancloud.cn
-127.0.0.1 glob-markets.pro
 127.0.0.1 www.y-ads.net
 127.0.0.1 www.es.ero-advertising.com
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
@@ -16826,7 +16815,6 @@
 127.0.0.1 ads.osdn.com
 127.0.0.1 udp.push.mob.com
 127.0.0.1 5e-qixi.pro
-127.0.0.1 promocyjnezakupy.click
 127.0.0.1 analytics.waifu2x.org
 127.0.0.1 utarget.pro
 127.0.0.1 naszemiasteczko.click
@@ -20147,7 +20135,6 @@
 127.0.0.1 maximizer-pro.site
 127.0.0.1 easycep.api.useinsider.com
 127.0.0.1 analytics.kerns.co
-127.0.0.1 downloadsparrow.com
 127.0.0.1 lokalleads-cci.com
 127.0.0.1 delivery.ads.gfsrv.net
 127.0.0.1 vs12.bj2.u3.ucweb.com
@@ -21414,7 +21401,6 @@
 127.0.0.1 ad09.focalink.com
 127.0.0.1 advocacyablaze.com
 127.0.0.1 tf.360.cn
-127.0.0.1 www.honestcapital.pro
 127.0.0.1 zachodslonca.click
 127.0.0.1 ads.xtra.co.nz
 127.0.0.1 mslinks-downloads.com
@@ -21514,7 +21500,6 @@
 127.0.0.1 s.lianmeng.360.cn
 127.0.0.1 ad.shareholders.dk
 127.0.0.1 www.foldedfiring.pro
-127.0.0.1 www.investpoint.pro
 127.0.0.1 ad5track.com
 127.0.0.1 pub-fadf5bc8a24d489599cf8837212acf8f.r2.dev
 127.0.0.1 adver.24h.com.vn
@@ -23687,7 +23672,6 @@
 127.0.0.1 www.open-cases-page-for-business.vercel.app
 127.0.0.1 usqgkkgsdk-f94896.ingress-bonde.ewp.live
 127.0.0.1 xn--pan-ei2e.xn--baidu-jm6h.com
-127.0.0.1 www.onyxprofit.pro
 127.0.0.1 ujrzymyprawde.click
 127.0.0.1 carburettoredplanees.pro
 127.0.0.1 obstanceder.pro
@@ -24983,7 +24967,6 @@
 127.0.0.1 banner.play-asia.com
 127.0.0.1 roty-dioraem.pro
 127.0.0.1 cdn5.proadscdn.com
-127.0.0.1 www.taymade1991.com
 127.0.0.1 marketsfocus.click
 127.0.0.1 cdn.advanseads.com
 127.0.0.1 check-tl-ver-294-2.com
@@ -27099,7 +27082,6 @@
 127.0.0.1 conversion.pro.cn
 127.0.0.1 cadh10.com
 127.0.0.1 ads.lamchame.vn
-127.0.0.1 www.glob-markets.pro
 127.0.0.1 www.badaniespoleczne.click
 127.0.0.1 dc.sigmob.cn
 127.0.0.1 ad.1ting.com
@@ -27838,7 +27820,6 @@
 127.0.0.1 analytics.api.justeattakeaway.com
 127.0.0.1 zgondziecka.click
 127.0.0.1 ad-apac.doubleclick.net
-127.0.0.1 www.greenfieldinvestment.pro
 127.0.0.1 budads.ximprrove.top
 127.0.0.1 tripadvisor-pre-approved-6e38-4cb0-b949-b075e4a10b96.leomni.cfd
 127.0.0.1 olx.pl-oferta-iphone-14-pro-max-deep-purple-256-gb.pl
