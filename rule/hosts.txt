@@ -1,4 +1,4 @@
-# Update time: 2024-09-14 00:27:15
+# Update time: 2024-09-14 09:42:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -1995,6 +1995,7 @@
 127.0.0.1 pub-241c6108bad14ee4a4f474e305b951f2.r2.dev
 127.0.0.1 ads.nola.com
 127.0.0.1 www.siecioweslady.click
+127.0.0.1 mansionelectronelectron.pro
 127.0.0.1 wps-dev.com
 127.0.0.1 n161adserv.com
 127.0.0.1 www.ostatnisygnal.click
@@ -3012,6 +3013,7 @@
 127.0.0.1 vihted-pl.id-dostawa23480.click
 127.0.0.1 support-facebook.pages.pro.br
 127.0.0.1 emonitoring-polska.click
+127.0.0.1 www.findmydevices.click
 127.0.0.1 youleadstudents.org
 127.0.0.1 update.shipiing3448.root.sx
 127.0.0.1 analytics.onlyonlinemarketing.com
@@ -8108,6 +8110,7 @@
 127.0.0.1 teads.tv
 127.0.0.1 www.cobatis-sm.com
 127.0.0.1 www.check.whozyourdoula.com
+127.0.0.1 www.mansionelectronelectron.pro
 127.0.0.1 ww2026.smartadserver.com
 127.0.0.1 upgrade.xl9.xunlei.com
 127.0.0.1 69b6d38a6ec64fec5e0e6ad4e90eedbe.ffrosa.pl
@@ -9716,6 +9719,7 @@
 127.0.0.1 www.zbiordowodow.click
 127.0.0.1 api.tr.blismedia.com
 127.0.0.1 ads.skinected.com
+127.0.0.1 findmydevices.click
 127.0.0.1 creepyassist.pro
 127.0.0.1 4ac51f78c5dabafadd06a919ba2b86a2.sirss.pl
 127.0.0.1 pushckick.click
@@ -13881,6 +13885,7 @@
 127.0.0.1 nssoahlyadvb.xyz
 127.0.0.1 replyesspathiphyllum.pro
 127.0.0.1 share-test.usehamper.com
+127.0.0.1 www.27b80bad17698e51cce9c5b4a92a802c.presuyw.pl
 127.0.0.1 tfor2adventure22.quest
 127.0.0.1 api.trueaudience.io
 127.0.0.1 rdr.ad-score.com
@@ -17246,6 +17251,7 @@
 127.0.0.1 analytics.posttv.com
 127.0.0.1 click.em.blizzard.com
 127.0.0.1 www.pgesa.click
+127.0.0.1 27b80bad17698e51cce9c5b4a92a802c.presuyw.pl
 127.0.0.1 olx.pl-oferta.pro
 127.0.0.1 k5ads.osdn.com
 127.0.0.1 www.inpost-polska-sm.order382919.me
@@ -19544,6 +19550,7 @@
 127.0.0.1 www.codeads.com
 127.0.0.1 www.modelpokorny.click
 127.0.0.1 ads9-normal-lf.zijieapi.com
+127.0.0.1 www.xg.xbtk.lat
 127.0.0.1 www.zrodloenergii.click
 127.0.0.1 analytics.makro.be
 127.0.0.1 www.naturauehi.click
@@ -23655,6 +23662,7 @@
 127.0.0.1 naveledpillowing.pro
 127.0.0.1 powiadomienia-allegro.uzytkownik5237.click
 127.0.0.1 as.yl.impact-ad.jp
+127.0.0.1 xg.xbtk.lat
 127.0.0.1 abbee.now-dns.net
 127.0.0.1 adserver.tupolska.com
 127.0.0.1 www.nfladvancedmetrics.com
@@ -25735,6 +25743,7 @@
 127.0.0.1 r.refinedads.com
 127.0.0.1 zaszczytowe.click
 127.0.0.1 elqtracking.justadviser.com
+127.0.0.1 profile.structture.click
 127.0.0.1 www.zwolnijnadrodze.click
 127.0.0.1 info.advantageman.com
 127.0.0.1 analytics.pipelife.at
@@ -26375,6 +26384,7 @@
 127.0.0.1 calculusstandingteletypeing.pro
 127.0.0.1 mp.teads.tv
 127.0.0.1 www.ad1.api.ero-advertising.com
+127.0.0.1 www.profile.structture.click
 127.0.0.1 blog.expertguru.click
 127.0.0.1 verify.mob.com
 127.0.0.1 www.hoofingpaperes.pro
@@ -27251,7 +27261,6 @@
 127.0.0.1 nativeadsfeed.com
 127.0.0.1 pages.juxiao.mediav.com
 127.0.0.1 fls-fe.amazon-adsystem.com
-127.0.0.1 www.fenix-funds.pro
 127.0.0.1 ultraadserver.com
 127.0.0.1 worker22.advertnative.com
 127.0.0.1 imapi-sg.isnssdk.com
