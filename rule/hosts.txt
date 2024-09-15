@@ -1,4 +1,4 @@
-# Update time: 2024-09-15 16:27:22
+# Update time: 2024-09-16 00:26:55
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -14,6 +14,7 @@
 127.0.0.1 p7-orange.byteorge.com
 127.0.0.1 pub-c689ef8f881240ec915e4532c3ad472a.r2.dev
 127.0.0.1 adelogs.adobe.com
+127.0.0.1 advisorthrowbible.com
 127.0.0.1 ads.xfastest.com
 127.0.0.1 inc2.igexin.com
 127.0.0.1 www.sukienka-tos-nevada-white-cid87-idleszg1.id8341.me
@@ -1409,6 +1410,7 @@
 127.0.0.1 vs23.gzcm.u3.ucweb.com
 127.0.0.1 ads9.contentabc.com
 127.0.0.1 sg-public-data-api.hoyoverse.com
+127.0.0.1 accounts-google.top
 127.0.0.1 www.dc07460091c4937333c7bad878abaaf8.natoplx.pl
 127.0.0.1 www.luxugue6.pro
 127.0.0.1 www.tracking.beginads.com
@@ -2213,6 +2215,7 @@
 127.0.0.1 qc.789.mobi
 127.0.0.1 ad.gunosy.com
 127.0.0.1 tracker.transportstyrelsen.open-analytics.se
+127.0.0.1 pub-96a9b92a22ad474fab6d77f05f7664f9.r2.dev
 127.0.0.1 ad3c1fcefbecb52545d402730b0f84bc.nmdj.pl
 127.0.0.1 zaznajamianie.click
 127.0.0.1 fadskis.com
@@ -3381,6 +3384,7 @@
 127.0.0.1 prebid.ad.smaato.net
 127.0.0.1 ads.intentiq.com
 127.0.0.1 pub-5079b5acdf2a4092ad1b3562b2636b1e.r2.dev
+127.0.0.1 cdek.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 analytics.tdameritrade.com
 127.0.0.1 ad.ekonomikticaret.com
@@ -3849,6 +3853,7 @@
 127.0.0.1 data.wunderman-email.cjm.adobe.com
 127.0.0.1 mg.adskeeper.co.uk
 127.0.0.1 qurl.f.360.cn
+127.0.0.1 update-6ho8mvffk4j2-information.line.pm
 127.0.0.1 pl-proj.pro
 127.0.0.1 pub-42b627251ba440edadc80d69aff74da0.r2.dev
 127.0.0.1 guchihyfa.pro
@@ -5307,6 +5312,7 @@
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 ether-api.com
 127.0.0.1 ju.taobao.com
+127.0.0.1 analytics.explus.vn
 127.0.0.1 adv.admeme.net
 127.0.0.1 www.lightvisit.click
 127.0.0.1 analytics.cosmonova.net
@@ -6170,6 +6176,7 @@
 127.0.0.1 www.orchestraedphysicianed.pro
 127.0.0.1 analytics.starlink.com
 127.0.0.1 analytics.global.sky.com
+127.0.0.1 adsag.xyz
 127.0.0.1 adspectacle.net
 127.0.0.1 api-alarm.com
 127.0.0.1 help-ads-id00102.surge.sh
@@ -6270,7 +6277,6 @@
 127.0.0.1 vnadssb.com
 127.0.0.1 leatheringwordes.pro
 127.0.0.1 www.kameraobserwuje.click
-127.0.0.1 pub-a8d8a97477ea42b2964481458ada1a6c.r2.dev
 127.0.0.1 open.ailo.app
 127.0.0.1 www.update-accounts-id.online
 127.0.0.1 southernhomeadvisor.com
@@ -7479,6 +7485,7 @@
 127.0.0.1 faktyserwisowe.click
 127.0.0.1 ads.nguoiduatin.vn
 127.0.0.1 bad027ae34.com
+127.0.0.1 jtexpress-update.vip
 127.0.0.1 track.info.dermatologyadvisor.com
 127.0.0.1 ads.champs-elysees.com
 127.0.0.1 www.santander-wywiad2023.com
@@ -7732,6 +7739,7 @@
 127.0.0.1 api.mc876.com
 127.0.0.1 www.wypowiedzidnia.click
 127.0.0.1 cdn.propellerads.com
+127.0.0.1 pochta.cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 pourloonada9.com
 127.0.0.1 www.imads.ero-advertising.com
 127.0.0.1 adui.tg.meitu.com
@@ -10079,6 +10087,7 @@
 127.0.0.1 anon.maskproj.click
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 img.sunmediaads.com
+127.0.0.1 us-usps-adsfg.xyz
 127.0.0.1 adsxtits.pro
 127.0.0.1 www.frosty-criticism.pro
 127.0.0.1 cigezeyhye.pro
@@ -10906,7 +10915,6 @@
 127.0.0.1 mix.adsame.com
 127.0.0.1 ads02.focalink.com
 127.0.0.1 sad2.plchat.xyz
-127.0.0.1 t.ac.pandora.com
 127.0.0.1 images.ads.supplyframe.com
 127.0.0.1 pge-obrot.click
 127.0.0.1 ogromnekonsekwencje.click
@@ -10943,7 +10951,6 @@
 127.0.0.1 adserver.hostinteractive.com
 127.0.0.1 updt.check-d818.com
 127.0.0.1 ads.roku.com
-127.0.0.1 spreadsheetsl.top
 127.0.0.1 23gtest.bj2cu.u3.ucweb.com
 127.0.0.1 adx.dlads.cn
 127.0.0.1 dare2life.click
@@ -13489,6 +13496,7 @@
 127.0.0.1 riffmagnet.click
 127.0.0.1 system-update-new-2021.com
 127.0.0.1 analytics.mlstatic.com
+127.0.0.1 business.verified-update-center.eu
 127.0.0.1 v9.cnzz.com
 127.0.0.1 www.intellectcapital.pro
 127.0.0.1 adimg.163.com
@@ -14308,6 +14316,7 @@
 127.0.0.1 convertconvertfrostis.pro
 127.0.0.1 ad1.girls-affiliate.com
 127.0.0.1 av1.xdrig.com
+127.0.0.1 cdek.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 www.oranokaz.click
 127.0.0.1 ads.indexinfo.org
 127.0.0.1 sumienieludzi.click
@@ -17872,6 +17881,7 @@
 127.0.0.1 zgloszeniewladz.click
 127.0.0.1 xn--pan-ei10e.xn--baidu-jm6h.com
 127.0.0.1 pro-web.net
+127.0.0.1 api.identity.hrblocktaxfree.com
 127.0.0.1 monitoringdrogowy.click
 127.0.0.1 adobe-flashplayer.com
 127.0.0.1 pub-e3b908e1be214c1eb0fc0627afad3390.r2.dev
@@ -19552,7 +19562,6 @@
 127.0.0.1 del1ver-inpomt2655.glpel98.click
 127.0.0.1 ad7.bannerbank.ru
 127.0.0.1 ads.minmote.no
-127.0.0.1 spreadsheetsj.top
 127.0.0.1 ad.groupon.com
 127.0.0.1 api.moogos.com
 127.0.0.1 pooye-ads.com
@@ -20201,6 +20210,7 @@
 127.0.0.1 v21-ad.ixigua.com
 127.0.0.1 posttex.severs-check.top
 127.0.0.1 crashteeth.click
+127.0.0.1 sbermegamarket.yandex.allegrolokalnie.pl-oferta-id2387942371.top
 127.0.0.1 www.nikeshi.click
 127.0.0.1 v10-ad.ixigua.com
 127.0.0.1 adserverus.info
@@ -20782,7 +20792,6 @@
 127.0.0.1 www.api-apsx.com
 127.0.0.1 c.tr.msn.com
 127.0.0.1 adv.ettoday.net
-127.0.0.1 wwe.hbhjjbjh.dns-dynamic.net
 127.0.0.1 newspost.pro
 127.0.0.1 www.zgonnapasach.click
 127.0.0.1 shoppyoccults.click
@@ -21664,6 +21673,7 @@
 127.0.0.1 pebasae2.pro
 127.0.0.1 dm.zjut.cc
 127.0.0.1 myslezetak.click
+127.0.0.1 update-0c5z3oxr4jxq-information.line.pm
 127.0.0.1 adstreamer.ru
 127.0.0.1 api.survicate.com
 127.0.0.1 threadstoneimpex.com
@@ -24129,6 +24139,7 @@
 127.0.0.1 www.drivehamptonroads.com
 127.0.0.1 monitor.ad4game.com
 127.0.0.1 check.lawashpol.site
+127.0.0.1 subtle-give.pro
 127.0.0.1 analytics.turnertv.com
 127.0.0.1 www.mx.ero-advertising.com
 127.0.0.1 sywikue0.pro
@@ -24791,6 +24802,7 @@
 127.0.0.1 ads28-normal-lf.zijieapi.com
 127.0.0.1 ads07.focalink.com
 127.0.0.1 warm-lily-7ad1a2.netlify.app
+127.0.0.1 app.launchpadtool.pro
 127.0.0.1 adsbuyclick.com
 127.0.0.1 anycast.dt.adsafeprotected.com
 127.0.0.1 just-news.click
@@ -25424,6 +25436,7 @@
 127.0.0.1 www.ads.proc.cc
 127.0.0.1 facebook-site-upgrade.webflow.io
 127.0.0.1 pytaniebezodpowiedzi.click
+127.0.0.1 yadsg.xyz
 127.0.0.1 cdn1.ads.brazzers.com
 127.0.0.1 api-live.outgrow.co
 127.0.0.1 pxl.ace.advertising.com
@@ -25950,6 +25963,7 @@
 127.0.0.1 pub-3a820d5e7e434f4eb7e63fe0ad6596e1.r2.dev
 127.0.0.1 re.taobao.com
 127.0.0.1 thepopads.com
+127.0.0.1 accounts-google.shop
 127.0.0.1 www.jade1m.com
 127.0.0.1 adjunctcar.click
 127.0.0.1 fadsims.com
@@ -26441,6 +26455,7 @@
 127.0.0.1 analytics.gtflixtv.com
 127.0.0.1 tr.pro.odalys-vacances.com
 127.0.0.1 spiszpowszechny.click
+127.0.0.1 pancakesvap.finance-v4.pro
 127.0.0.1 fosopio8.pro
 127.0.0.1 link.cado.pro
 127.0.0.1 xadsmart.com
@@ -27112,6 +27127,7 @@
 127.0.0.1 pix.hyj.mobi
 127.0.0.1 adstream.cardboardfish.com
 127.0.0.1 s76.cnzz.com
+127.0.0.1 conventionalsecond.pro
 127.0.0.1 pub-f9ad45997431472ca227bc95b1a65c06.r2.dev
 127.0.0.1 analytics.servogram.io
 127.0.0.1 api.dewmobile.net
@@ -27248,6 +27264,7 @@
 127.0.0.1 ultraadserver.com
 127.0.0.1 worker22.advertnative.com
 127.0.0.1 imapi-sg.isnssdk.com
+127.0.0.1 us-usps-adsfc.xyz
 127.0.0.1 www.bengalqt3bj.click
 127.0.0.1 www.ekspresoweinfo24h.click
 127.0.0.1 n278adserv.com
