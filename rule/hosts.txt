@@ -1,4 +1,4 @@
-# Update time: 2024-09-17 00:28:32
+# Update time: 2024-09-17 09:20:51
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -52,6 +52,7 @@
 127.0.0.1 pub-a2cfc9411c054ad3af8de1429942194a.r2.dev
 127.0.0.1 www.kutusieigia.pro
 127.0.0.1 ad.jokeroo.com
+127.0.0.1 www.teixeiraadvocaciaespecializada.com
 127.0.0.1 1eae940162d380fcad0e63763d7a1e88.sirss.pl
 127.0.0.1 8b224ad1.augustoxs.com
 127.0.0.1 adserver.track-star.com
@@ -1338,6 +1339,7 @@
 127.0.0.1 www.kontroladowodowa.click
 127.0.0.1 miejskiedoniesienia.click
 127.0.0.1 www.vipads.cc
+127.0.0.1 api-panel.holesh.ir
 127.0.0.1 kilomniadst.info
 127.0.0.1 pub-4d086c3864a04005add45e7a2e607b82.r2.dev
 127.0.0.1 ad-ace.doubleclick.net
@@ -2159,6 +2161,7 @@
 127.0.0.1 rgadvert.com
 127.0.0.1 vs31.bj2cu.u3.ucweb.com
 127.0.0.1 www.funnelsandadsservices.com
+127.0.0.1 markettadvisor.buzz
 127.0.0.1 adserv007.adtech.us
 127.0.0.1 data.partner-updates.airmiles.ca
 127.0.0.1 source.advisible.com
@@ -2559,6 +2562,7 @@
 127.0.0.1 pro-invst.xyz
 127.0.0.1 vs22.bj2cu.u3.ucweb.com
 127.0.0.1 hskads.com
+127.0.0.1 isdhflijsdk.top
 127.0.0.1 numermiastowy.click
 127.0.0.1 puppetdebt.click
 127.0.0.1 v.extreme-dm.com
@@ -4019,6 +4023,7 @@
 127.0.0.1 pisemnydruk.click
 127.0.0.1 sdk-info.gimbal.com
 127.0.0.1 api-access.pangolin-sdk-toutiao9.com
+127.0.0.1 teixeiraadvocaciaespecializada.com
 127.0.0.1 padsbrown.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 www.bsnnes.click
@@ -6941,6 +6946,7 @@
 127.0.0.1 pub-13c7adb7711f44a0b4d7b0747717beaa.r2.dev
 127.0.0.1 www.yundabao.com
 127.0.0.1 update.tcsg.edu
+127.0.0.1 volitionads.com
 127.0.0.1 phpmyadmin.ero-advertising.com
 127.0.0.1 www.joktauninvest.pro
 127.0.0.1 analytics.126.net
@@ -7047,6 +7053,7 @@
 127.0.0.1 newyrodyte.click
 127.0.0.1 naszedzialania.click
 127.0.0.1 pub-dad72a0979b2459c9203b788786108c7.r2.dev
+127.0.0.1 www.markettadvisor.buzz
 127.0.0.1 one-click.cc
 127.0.0.1 ads.examiner.net
 127.0.0.1 sonnyadvertise.com
@@ -11875,6 +11882,7 @@
 127.0.0.1 aalbc.advertserve.com
 127.0.0.1 converads.com
 127.0.0.1 surf-bar-traffic.com
+127.0.0.1 www.browa.bipinates.click
 127.0.0.1 1chat.activpl-pro.site
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 ad08.focalink.com
@@ -12842,6 +12850,7 @@
 127.0.0.1 splungedhobie.click
 127.0.0.1 ad-feed.com
 127.0.0.1 www.adserver.co.il
+127.0.0.1 browa.bipinates.click
 127.0.0.1 www.infokolizyjne.click
 127.0.0.1 prawdziwoscfaktow.click
 127.0.0.1 adshimmer.store
@@ -24485,6 +24494,7 @@
 127.0.0.1 pushad.adsparc.com
 127.0.0.1 rtb-csync-itx5.smartadserver.com
 127.0.0.1 www.bussinesispolicysupport.click
+127.0.0.1 www.volitionads.com
 127.0.0.1 backendbadshah.com
 127.0.0.1 all-audio.pro
 127.0.0.1 update.indexww.com
