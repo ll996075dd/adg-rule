@@ -1,4 +1,4 @@
-# Update time: 2024-09-18 09:43:24
+# Update time: 2024-09-18 16:26:49
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
