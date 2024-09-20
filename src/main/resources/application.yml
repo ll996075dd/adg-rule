@@ -21,6 +21,10 @@ application:
       - 'https://gitdl.cn/https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #AdAway Default Blocklist
       - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all'
       - 'https://cdn.jsdelivr.net/gh/examplecode/ad-rules-for-xbrowser@master/core-rule-cn.txt'
+      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock.txt'
+      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock_lite.txt'
+      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock_plus.txt'
+      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock_privacy.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
