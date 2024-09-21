@@ -1,4 +1,4 @@
-# Update time: 2024-09-21 00:28:20
+# Update time: 2024-09-21 09:43:10
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -897,6 +897,7 @@
 127.0.0.1 www.uwagakolizje.click
 127.0.0.1 betskin.pro
 127.0.0.1 www.p4talparad1se.xyz
+127.0.0.1 pro.progtopdep.top
 127.0.0.1 www.best.chr0meqpyt.click
 127.0.0.1 ad-img.ebaykorea.com
 127.0.0.1 app.marketing.pro.sony.eu
@@ -1380,6 +1381,7 @@
 127.0.0.1 t2.t2b.click
 127.0.0.1 mojapaczka-lnpost.ordervzxcf.click
 127.0.0.1 evad3rsevasion.com
+127.0.0.1 christiepointadvocates.com
 127.0.0.1 www.sprawozdanie24h.click
 127.0.0.1 ads.cineville.nl
 127.0.0.1 www.fb-ads.aag.co.id
@@ -2386,6 +2388,7 @@
 127.0.0.1 ads.collegclub.com
 127.0.0.1 gxbr.cnzz.com
 127.0.0.1 open.homey.app
+127.0.0.1 www.wowsoul.click
 127.0.0.1 ads.aspalliance.com
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 pro.progofficial.top
@@ -3263,6 +3266,7 @@
 127.0.0.1 adserver2.creative.com
 127.0.0.1 p20-ad-sign.byteimg.com
 127.0.0.1 zanotowywanie.click
+127.0.0.1 sailgadvent.xyz
 127.0.0.1 konkursyonline.click
 127.0.0.1 ce.syst-pltrade6.site
 127.0.0.1 share.supp.film
@@ -3897,6 +3901,7 @@
 127.0.0.1 advancedpilotacademy.com
 127.0.0.1 static.ad-lancers.jp
 127.0.0.1 undreadside.site
+127.0.0.1 www.advparvezali.com
 127.0.0.1 ads.cardea.se
 127.0.0.1 www.tragediepolski.click
 127.0.0.1 startup-mobile.ap.yandex-net.ru
@@ -5936,6 +5941,7 @@
 127.0.0.1 piteriortesign.click
 127.0.0.1 movieads.imgs.sapo.pt
 127.0.0.1 gta-5-pc-download.com
+127.0.0.1 advparvezali.com
 127.0.0.1 paopao-monitor.iqiyi.com
 127.0.0.1 imp.madserving.com
 127.0.0.1 buy-traffic.org
@@ -7240,6 +7246,7 @@
 127.0.0.1 creditcardchase.click
 127.0.0.1 ads.zijieapi.com
 127.0.0.1 inpostpl.wniosekid057496723.click
+127.0.0.1 povvertyfocus.click
 127.0.0.1 sm-fl4.sbs
 127.0.0.1 www.sprawasensacja.click
 127.0.0.1 ads.betfair.com
@@ -8890,6 +8897,7 @@
 127.0.0.1 ad40digital.checkm8.com
 127.0.0.1 www.cash4downloads.com
 127.0.0.1 l.dm.casio.info
+127.0.0.1 roadsidetonationalwide.com
 127.0.0.1 ad.hbv.de
 127.0.0.1 ad.ntvmsnbc.com
 127.0.0.1 lp.hol15.demoamericas275.adobe.com
@@ -9353,6 +9361,7 @@
 127.0.0.1 naturalbees.click
 127.0.0.1 ad39digital.checkm8.com
 127.0.0.1 ad31digital.checkm8.com
+127.0.0.1 wowsoul.click
 127.0.0.1 adp1.cnool.net
 127.0.0.1 click.oneplus.com
 127.0.0.1 miastoposzukiwawcze.click
@@ -17442,6 +17451,7 @@
 127.0.0.1 el.projectprog.click
 127.0.0.1 ads.massinfra.nl
 127.0.0.1 obywatelskiewydarzenia.click
+127.0.0.1 www.xaka.adsndtrackify.xyz
 127.0.0.1 f3c83f6767fb919024b8abad24c30087.vistamal.pl
 127.0.0.1 downloads.pcsecurityshield.com
 127.0.0.1 verification.jiguang.cn
@@ -19271,6 +19281,7 @@
 127.0.0.1 lnpost-info.num77646.click
 127.0.0.1 www.gryfaktow.click
 127.0.0.1 pub-9ad96370a6144dd1b9a7985cb29c6629.r2.dev
+127.0.0.1 www.sailgadvent.xyz
 127.0.0.1 info-elandia.click
 127.0.0.1 www.potraceniesmiertelne.click
 127.0.0.1 www.wta.ero-advertising.com
@@ -23361,6 +23372,7 @@
 127.0.0.1 i.itpolska.click
 127.0.0.1 www.lepydey2.pro
 127.0.0.1 dadsats.com
+127.0.0.1 www.roadsidetonationalwide.com
 127.0.0.1 toponadss.com
 127.0.0.1 partner.haru-shop.jp
 127.0.0.1 clickandprofit.click
@@ -25209,6 +25221,7 @@
 127.0.0.1 adspart.com
 127.0.0.1 lead8725-ollox-pl.autotaxi.top
 127.0.0.1 coin-ad.com
+127.0.0.1 xaka.adsndtrackify.xyz
 127.0.0.1 nwfkjx.gadventures.com
 127.0.0.1 easy-ads.dk
 127.0.0.1 ettsl.activpl-pro.site
@@ -27514,6 +27527,7 @@
 127.0.0.1 advertisementafterthought.com
 127.0.0.1 ad3.rambler.ru
 127.0.0.1 muabannhanh.pro
+127.0.0.1 www.christiepointadvocates.com
 127.0.0.1 adserver.matchcraft.com
 127.0.0.1 postmodernism.click
 127.0.0.1 ekka.muchflaw.click
@@ -27998,6 +28012,7 @@
 127.0.0.1 www.video.krkpr.click
 127.0.0.1 www.asengads.com
 127.0.0.1 wydarzeniecentrum.click
+127.0.0.1 www.povvertyfocus.click
 127.0.0.1 analytics.toyotaforklift.com
 127.0.0.1 sdk.adotmob.com
 127.0.0.1 www.odrecznepismo.click
