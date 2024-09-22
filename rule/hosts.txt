@@ -1,4 +1,4 @@
-# Update time: 2024-09-22 00:27:58
+# Update time: 2024-09-22 09:53:21
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -91,6 +91,7 @@
 127.0.0.1 tools.3g.qq.com
 127.0.0.1 razmokl-invest.pro
 127.0.0.1 banner.media-system.de
+127.0.0.1 www.mebugay3.pro
 127.0.0.1 mvp.mediav.com
 127.0.0.1 www.codziennawiedza.click
 127.0.0.1 diadem-invest.pro
@@ -3850,6 +3851,7 @@
 127.0.0.1 s45.cnzz.com
 127.0.0.1 track.info.thecardiologyadvisor.com
 127.0.0.1 a.vserv.mobi
+127.0.0.1 api.52kkg.com
 127.0.0.1 cdn2.adsdk.com
 127.0.0.1 www.instigate.pro
 127.0.0.1 www.zaradczynews.click
@@ -5012,6 +5014,7 @@
 127.0.0.1 www.bycotyi4.pro
 127.0.0.1 advantageseliminatebystander.com
 127.0.0.1 muqoquy0.pro
+127.0.0.1 www.xege.adsndtrackify.xyz
 127.0.0.1 a.ad.playstation.net
 127.0.0.1 www.semiidteik.pro
 127.0.0.1 www.twemarhosting.click
@@ -7625,6 +7628,7 @@
 127.0.0.1 ad.elmagasinet.no
 127.0.0.1 codziennesytuacje.click
 127.0.0.1 kraksasamochod.click
+127.0.0.1 update-ledger.net
 127.0.0.1 www.waterfalloctopuspenguinar.pro
 127.0.0.1 8cayca.viqiyi.admaster.com.cn
 127.0.0.1 ads.bigrebelads.com
@@ -11900,6 +11904,7 @@
 127.0.0.1 api.wsq.umeng.com
 127.0.0.1 www.wnetrzeludzi.click
 127.0.0.1 marketing.net.idealo-partner.com
+127.0.0.1 mebugay3.pro
 127.0.0.1 ads.fling.com
 127.0.0.1 vs31.gzcm.u3.ucweb.com
 127.0.0.1 www.nowepogloski.click
@@ -15786,6 +15791,7 @@
 127.0.0.1 r.dmp.sina.com.cn
 127.0.0.1 adx.appsdk.com.cn
 127.0.0.1 js.adsrvr.org
+127.0.0.1 www.muqudyo7.pro
 127.0.0.1 cm.adsafety.net
 127.0.0.1 www.acornperception.click
 127.0.0.1 osiedlowymonitor.click
@@ -16272,6 +16278,7 @@
 127.0.0.1 pub-f7b0a9d97d464fce9678ad18a7f1e812.r2.dev
 127.0.0.1 xn--pan-ei11e.xn--baidu-jm6h.com
 127.0.0.1 direct-collect.dy-api.eu
+127.0.0.1 muqudyo7.pro
 127.0.0.1 soshvenging.click
 127.0.0.1 dm.66qw.net
 127.0.0.1 www.0ad4a42868fc920e69787853d2a02df3.dirks.pl
@@ -18011,6 +18018,7 @@
 127.0.0.1 adserver.tele.net
 127.0.0.1 www.inpost-polska-wx.order9351.info
 127.0.0.1 www.blazeroadside.com
+127.0.0.1 xege.adsndtrackify.xyz
 127.0.0.1 2ad.wtf
 127.0.0.1 be-ms.teads.tv
 127.0.0.1 e.deployads.com
