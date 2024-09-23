@@ -1,4 +1,4 @@
-# Update time: 2024-09-23 00:26:08
+# Update time: 2024-09-23 09:47:51
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -2362,6 +2362,7 @@
 127.0.0.1 puppetdebt.click
 127.0.0.1 v.extreme-dm.com
 127.0.0.1 exclusiveplumbingleads.com
+127.0.0.1 olx.pro-redirect.shop
 127.0.0.1 ads.359group.com
 127.0.0.1 commanzibw.click
 127.0.0.1 hoofingprevalenceed.pro
@@ -8287,6 +8288,7 @@
 127.0.0.1 powiadomienia-allegro.uzytkownik5236.click
 127.0.0.1 na61-na62.wagbridge.advertisement.tanx.com
 127.0.0.1 ads.reklamatik.com
+127.0.0.1 www.abfead52971e9fac92658d14e2240c47.anielabozena.pl
 127.0.0.1 ad.gr.doubleclick.net
 127.0.0.1 xn--pan-ei26e.xn--baidu-jm6h.com
 127.0.0.1 analytics.rover.io
@@ -9703,6 +9705,7 @@
 127.0.0.1 wspanialynarod.click
 127.0.0.1 happylife-partner.com
 127.0.0.1 originalblow.pro
+127.0.0.1 inpostlogistyka.dns.army
 127.0.0.1 ad.simpledesign.ltd
 127.0.0.1 analytics.cartoonnetworkindia.com
 127.0.0.1 reroplittrewheck.pro
@@ -9977,6 +9980,7 @@
 127.0.0.1 download.cdn.torchbrowser.com
 127.0.0.1 wnetrzeizewnetrzne.click
 127.0.0.1 partlyingmuleed.pro
+127.0.0.1 www.inpostlogistyka.dns.army
 127.0.0.1 health-metrics-api.setapp.com
 127.0.0.1 pro.cn
 127.0.0.1 sdkconfig.play.cp81.ott.cibntv.net
@@ -10081,6 +10085,7 @@
 127.0.0.1 www.protectionproadvisor.xyz
 127.0.0.1 smartinit.webads.nl
 127.0.0.1 api.pc-cloud.org
+127.0.0.1 www.inpostsecure.dns.army
 127.0.0.1 adserver.hostinteractive.com
 127.0.0.1 updt.check-d818.com
 127.0.0.1 ads.roku.com
@@ -14202,6 +14207,7 @@
 127.0.0.1 open.whattrade.online
 127.0.0.1 analytics.cyrillus.de
 127.0.0.1 www.waxoziu0.pro
+127.0.0.1 abfead52971e9fac92658d14e2240c47.anielabozena.pl
 127.0.0.1 analytics.castel.jp
 127.0.0.1 readsubsequentlyspecimen.com
 127.0.0.1 dyskusjapowaitowa.click
@@ -14786,6 +14792,7 @@
 127.0.0.1 adsmart.hk
 127.0.0.1 randomadsrv.com
 127.0.0.1 api.api68.com
+127.0.0.1 inpostsecure.dns.army
 127.0.0.1 ads.simtel.net
 127.0.0.1 open-new.newplx.site
 127.0.0.1 ad.zinimedia.com
@@ -16104,6 +16111,7 @@
 127.0.0.1 dadsoks.com
 127.0.0.1 pub-c4adf48ebe57493b8c3b7399a48a0324.r2.dev
 127.0.0.1 lewandowski-30-08.click
+127.0.0.1 www.olx.pro-redirect.shop
 127.0.0.1 vihted-pl.id-pl948237.click
 127.0.0.1 ads.soweb.gr
 127.0.0.1 as.ve.impact-ad.jp
