@@ -1,4 +1,4 @@
-# Update time: 2024-09-24 09:48:08
+# Update time: 2024-09-24 16:29:54
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -178,6 +178,7 @@
 127.0.0.1 inpost-ei.click
 127.0.0.1 lazada111.com
 127.0.0.1 ads.iknowthatgirl.com
+127.0.0.1 mi.nwmw.skin
 127.0.0.1 itsafe.pro
 127.0.0.1 kolezenskieinfo.click
 127.0.0.1 ads.adsrvmedia.net
@@ -215,6 +216,7 @@
 127.0.0.1 rtb-use.mfadsrvr.com
 127.0.0.1 www.threadss.info
 127.0.0.1 ad.vidverto.io
+127.0.0.1 mountainmajestydomains.click
 127.0.0.1 windproof.pro
 127.0.0.1 sync-share.com
 127.0.0.1 pinterest.adsymptotic.com
@@ -309,6 +311,7 @@
 127.0.0.1 luxuriouses.pro
 127.0.0.1 www.update-information.zzux.com
 127.0.0.1 www.notedfork.click
+127.0.0.1 365.915sj1.xyz
 127.0.0.1 adobe-dev-landingpageprefix.descubre.interbank.pe
 127.0.0.1 boostingads.com
 127.0.0.1 veraflorindo.adv.br
@@ -1694,6 +1697,7 @@
 127.0.0.1 click.marketing.carousell.com
 127.0.0.1 skrotmyslowy.click
 127.0.0.1 ad.tempstaff.co.jp
+127.0.0.1 pafo.adsndtrackify.xyz
 127.0.0.1 modelpokorny.click
 127.0.0.1 adsvolum.com
 127.0.0.1 ad-link.jp
@@ -2627,6 +2631,7 @@
 127.0.0.1 www.ad7.api.ero-advertising.com
 127.0.0.1 bayamolupines.click
 127.0.0.1 mieszkancyosiedla.click
+127.0.0.1 padsw.polaeva.fun
 127.0.0.1 www.mob-olx.site
 127.0.0.1 networksdk.ssacdn.com
 127.0.0.1 adi2007.cnool.net
@@ -3177,6 +3182,7 @@
 127.0.0.1 d2378329a9-update.kaskak1.pl
 127.0.0.1 www.surfingedatmosphereed.pro
 127.0.0.1 shimmering-strike.pro
+127.0.0.1 tytufuu.pro
 127.0.0.1 www.photo-ads.co.uk
 127.0.0.1 guess.mediav.com
 127.0.0.1 s111.cnzz.com
@@ -4114,6 +4120,7 @@
 127.0.0.1 netlfix-update-online.builderallwppro.com
 127.0.0.1 removeads.workers.dev
 127.0.0.1 api.pushnami.com
+127.0.0.1 tanagersavor.click
 127.0.0.1 adv.freepornvs.com
 127.0.0.1 webfile.adview.cn
 127.0.0.1 pro.letv.com
@@ -7441,6 +7448,7 @@
 127.0.0.1 www.adw.ero-advertising.com
 127.0.0.1 cp-home-pl-d76adb9d103.solidinterimmanagement.nl
 127.0.0.1 ads.gold
+127.0.0.1 adsmarketer.in
 127.0.0.1 gminnanotka.click
 127.0.0.1 materialdowodowy.click
 127.0.0.1 api.adfurikun.jp
@@ -7854,6 +7862,7 @@
 127.0.0.1 yardcoards.click
 127.0.0.1 oix-polsca.asoromeilqop555.click
 127.0.0.1 decenterads.com
+127.0.0.1 api.palpita.net
 127.0.0.1 e47bf8dada368230281893ef082b207a.iorps.pl
 127.0.0.1 trace.mjyx.com
 127.0.0.1 analytics.midas.pt
@@ -7987,6 +7996,7 @@
 127.0.0.1 iej.8hwo.pro
 127.0.0.1 ad.leap.app
 127.0.0.1 8csbxu.vsohu.admaster.com.cn
+127.0.0.1 www.wowjest.click
 127.0.0.1 djaozjue5ey7.audience-targeting-pro.icu
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 analytics.midas.re
@@ -8195,6 +8205,7 @@
 127.0.0.1 install.365-stream.com
 127.0.0.1 turnoverstandingaluminumes.pro
 127.0.0.1 sm.sungardas.com
+127.0.0.1 commercial-vip.top
 127.0.0.1 makeprofi.click
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 ad1.checkm8.com
@@ -8210,7 +8221,6 @@
 127.0.0.1 msdk-files.webengage.com
 127.0.0.1 applink.mob.com
 127.0.0.1 ad.jacotei.com.br
-127.0.0.1 pro.twrectify.com
 127.0.0.1 www.molber.click
 127.0.0.1 api.taps.io
 127.0.0.1 s87.cnzz.com
@@ -9207,7 +9217,6 @@
 127.0.0.1 drogowekolizje.click
 127.0.0.1 www.extreme-dm.com
 127.0.0.1 pub-f3d226f9f0d0434bad0fc10cbda95096.r2.dev
-127.0.0.1 spreadsheetsk.top
 127.0.0.1 rutabagastandingis.pro
 127.0.0.1 analytics-tracking.meetup.com
 127.0.0.1 surfe.pro
@@ -9936,6 +9945,7 @@
 127.0.0.1 vs11.bj2cm.u3.ucweb.com
 127.0.0.1 kkk.kujfjurtu.dns-dynamic.net
 127.0.0.1 adser.dcms.site
+127.0.0.1 post-corp.me
 127.0.0.1 www.cichyzakatek.click
 127.0.0.1 www.pustka-swiat.click
 127.0.0.1 pub-158a4ab7ad6e43209750eddbe930bddd.r2.dev
@@ -10128,6 +10138,7 @@
 127.0.0.1 www.siodemka24h7.click
 127.0.0.1 stats.data2.ero-advertising.com
 127.0.0.1 ads.quoka.de
+127.0.0.1 www.mi.nwmw.skin
 127.0.0.1 dev.mobilead.vn
 127.0.0.1 advmedia.io
 127.0.0.1 wbksead91t1p7cduirkk6akg.basicbeautys.com
@@ -10247,6 +10258,7 @@
 127.0.0.1 publicznewyrazy.click
 127.0.0.1 analytics.hazeldenbettyford.org
 127.0.0.1 s.baidu.com
+127.0.0.1 elymusyomin.click
 127.0.0.1 unidorlin-invest.pro
 127.0.0.1 www.orbitaltrace.click
 127.0.0.1 yoads.network
@@ -11020,6 +11032,7 @@
 127.0.0.1 madvertise.de
 127.0.0.1 smetrics.pandora.com
 127.0.0.1 deployads.com
+127.0.0.1 www.mountainmajestydomains.click
 127.0.0.1 5x.xtnew.click
 127.0.0.1 pub-85ff240107794f08ba3922a44adb6ed4.r2.dev
 127.0.0.1 click.engineering.publicissapient.fr
@@ -11173,6 +11186,7 @@
 127.0.0.1 cbzhk.lanzouz.com
 127.0.0.1 znikomoscstraszliwych.click
 127.0.0.1 divisionstandingaluminumas.pro
+127.0.0.1 www.royalmaila.click
 127.0.0.1 log2.sina.cn
 127.0.0.1 parityclap.click
 127.0.0.1 pub-fcd1dc03524b4c788228ad46c317f7e5.r2.dev
@@ -11180,6 +11194,7 @@
 127.0.0.1 2gtest.bj2cu.u3.ucweb.com
 127.0.0.1 dokladneczyny.click
 127.0.0.1 upload2.bbox.wtf
+127.0.0.1 account.coordinatoins.click
 127.0.0.1 ads.singlescash.com
 127.0.0.1 pub-8423c697c7cd46adb2dd6c992e0743b7.r2.dev
 127.0.0.1 poziomwyzej.click
@@ -11509,6 +11524,7 @@
 127.0.0.1 olx-pl.prosto-porostu.pro
 127.0.0.1 ads5-normal-hl.zijieapi.com
 127.0.0.1 zion.api.cnn.io
+127.0.0.1 www.tytufuu.pro
 127.0.0.1 elonmax.projectprog.click
 127.0.0.1 cadsans.com
 127.0.0.1 analytics.maileon.com
@@ -12033,6 +12049,7 @@
 127.0.0.1 fls.uk.doubleclick.net
 127.0.0.1 immediate-pro-capex.com
 127.0.0.1 fetchingball.click
+127.0.0.1 update-3kxn5dayb9p6-information.line.pm
 127.0.0.1 wm.lrswl.com
 127.0.0.1 pro.prot-rad.top
 127.0.0.1 api-analytics-cn.huami.com
@@ -12906,6 +12923,7 @@
 127.0.0.1 ads.adtrustmedia.com
 127.0.0.1 zniewazeniespoleczne.click
 127.0.0.1 2yearatt15.sugar1818.net
+127.0.0.1 www.trejent.wantaolej.pro
 127.0.0.1 analytics.allovoisins.com
 127.0.0.1 analytics-tracker.thescore.com
 127.0.0.1 as.cd.impact-ad.jp
@@ -13422,6 +13440,7 @@
 127.0.0.1 adserver.mobsmith.com
 127.0.0.1 odmienionezycie.click
 127.0.0.1 s19.cnzz.com
+127.0.0.1 www.padsw.polaeva.fun
 127.0.0.1 vs30.gzcu.u3.ucweb.com
 127.0.0.1 www.dawa.ero-advertising.com
 127.0.0.1 awsync.yandex.ru
@@ -14530,6 +14549,7 @@
 127.0.0.1 advg.jp
 127.0.0.1 ads.hulu.com
 127.0.0.1 fuel-pumpes.pro
+127.0.0.1 adventurefishinggear.com
 127.0.0.1 obywatelskiedochodzenie.click
 127.0.0.1 vk-ads.ru
 127.0.0.1 marketing.dev-pro.net
@@ -15149,6 +15169,7 @@
 127.0.0.1 ad4.lbn.ru
 127.0.0.1 ad4.udn.com
 127.0.0.1 www.plpost.click
+127.0.0.1 frostyimposingsphere.pro
 127.0.0.1 api.i9bet105.com
 127.0.0.1 api.fouanalytics.com
 127.0.0.1 pcads.ru
@@ -16548,6 +16569,7 @@
 127.0.0.1 free-website-traffic.com
 127.0.0.1 hosting2070987.online.pro
 127.0.0.1 pub-25902d32074b459eb837a12ad320b79e.r2.dev
+127.0.0.1 www.blurr31lqyr.click
 127.0.0.1 gbp.ebayadvertising.triadretail.net
 127.0.0.1 omowieniainfo.click
 127.0.0.1 get-click.net
@@ -16856,6 +16878,7 @@
 127.0.0.1 api.ipstack.com
 127.0.0.1 www.razmokl-invest.pro
 127.0.0.1 httpdns.qqcdn.com
+127.0.0.1 l78mazda.click
 127.0.0.1 traffic-go.com
 127.0.0.1 ad.line-scdn.net
 127.0.0.1 sunmediaads.com
@@ -18338,6 +18361,7 @@
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 yvmads.com
 127.0.0.1 api-access.pangolin-sdk-toutiao8-b.com
+127.0.0.1 www.pafo.adsndtrackify.xyz
 127.0.0.1 1980s.click
 127.0.0.1 ads.urbandictionary.com
 127.0.0.1 ca.iadsdk.apple.com
@@ -18527,6 +18551,7 @@
 127.0.0.1 uc.atwola.com
 127.0.0.1 help.supporsrtt.click
 127.0.0.1 lnpost-info.num77647.click
+127.0.0.1 www.plconnectpost.dns.army
 127.0.0.1 csrich.pro
 127.0.0.1 app.adjust.world
 127.0.0.1 analytics.msk1.ru
@@ -20261,6 +20286,7 @@
 127.0.0.1 www.steenbergen.web.ero-advertising.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 badserver.org
+127.0.0.1 www.adsgamer.com
 127.0.0.1 pro-tslx.programm-one.site
 127.0.0.1 foreheadteletypeis.pro
 127.0.0.1 tulilui8.pro
@@ -20988,6 +21014,7 @@
 127.0.0.1 financialaifuturist.pro
 127.0.0.1 dosadnewiesci.click
 127.0.0.1 q14.cnzz.com
+127.0.0.1 xg.ullz.lat
 127.0.0.1 amdcopen.m.taobao.com
 127.0.0.1 blogad01.myweb.hinet.net
 127.0.0.1 molber.click
@@ -21050,6 +21077,7 @@
 127.0.0.1 adserver.sextracker.com
 127.0.0.1 wdpro-mkt-prod2-lb.campaign.adobe.com
 127.0.0.1 analytics.conad.it
+127.0.0.1 www.frostyimposingsphere.pro
 127.0.0.1 ads.bgtop.net
 127.0.0.1 pagead.topobiavi.com
 127.0.0.1 check-tl-ver-54-1.com
@@ -22705,6 +22733,7 @@
 127.0.0.1 potraceniegmina.click
 127.0.0.1 ads2.msads.net
 127.0.0.1 xdcs-collectorhera.ximalaya.com
+127.0.0.1 plconnectpost.dns.army
 127.0.0.1 medads.ru
 127.0.0.1 syndication-gceuw1.exoclick.com
 127.0.0.1 ads.co.com
@@ -23582,6 +23611,7 @@
 127.0.0.1 weekup.pro
 127.0.0.1 adserver.passion.com
 127.0.0.1 chainreaction-pl.click
+127.0.0.1 adsgamer.com
 127.0.0.1 ad-drop.jp
 127.0.0.1 mail.adswt.com
 127.0.0.1 ads.vtc.vn
@@ -23791,6 +23821,7 @@
 127.0.0.1 modamarzenia.click
 127.0.0.1 analytics.pipelife.ee
 127.0.0.1 api-upgrade.coocaa.ottcn.com
+127.0.0.1 www.zrudzinski.wantaolej.pro
 127.0.0.1 miskindle.muchflaw.click
 127.0.0.1 repentant-plant.pro
 127.0.0.1 advisorycouncil.top
@@ -23809,6 +23840,7 @@
 127.0.0.1 ad.groupon.net
 127.0.0.1 api.ns2.demo.admin.admin.gitlab.login.unitedgroupofcompany.com
 127.0.0.1 www.speedclicks.ero-advertising.com
+127.0.0.1 www.adventurefishinggear.com
 127.0.0.1 www.ad0.banners.ero-advertising.com
 127.0.0.1 p28-ad-sign.byteimg.com
 127.0.0.1 pub-00a2ad7fd61a4ece8d6a0dd5f113b614.r2.dev
@@ -24375,7 +24407,6 @@
 127.0.0.1 doreczeniepisma.click
 127.0.0.1 ad.land.to
 127.0.0.1 pro.jig.space
-127.0.0.1 1111365.pro
 127.0.0.1 brave-browser.edudlplomss.com
 127.0.0.1 rozoweokulary.click
 127.0.0.1 api.mobio.vn
@@ -24450,6 +24481,7 @@
 127.0.0.1 weightedpremiereing.pro
 127.0.0.1 juicygranny.com
 127.0.0.1 serv-canada2024.com
+127.0.0.1 trejent.wantaolej.pro
 127.0.0.1 adsdk.9imobi.com
 127.0.0.1 analytics.bi.encuentra24.com
 127.0.0.1 cdn.adservingsolutionsinc.com
@@ -24806,6 +24838,7 @@
 127.0.0.1 load.instinctiveads.com
 127.0.0.1 pub-a3f11bd3a4cd4ad1b285b37d5a169cf3.r2.dev
 127.0.0.1 analytics.springboardvideo.com
+127.0.0.1 enlinea.bankingalicia.click
 127.0.0.1 adv.h2porn.com
 127.0.0.1 google.olinails.de
 127.0.0.1 www.rifyvee5.pro
@@ -24971,6 +25004,7 @@
 127.0.0.1 sdk.markmedia.com
 127.0.0.1 support-for-business-open-cases-appeal-id-220.vercel.app
 127.0.0.1 pladvertising-manage.com
+127.0.0.1 www.account.coordinatoins.click
 127.0.0.1 zs15.cnzz.com
 127.0.0.1 conversion.pro.cn
 127.0.0.1 cadh10.com
@@ -25171,6 +25205,7 @@
 127.0.0.1 foodieadventures.fun
 127.0.0.1 adservon.com
 127.0.0.1 pfpip.sina.com
+127.0.0.1 zrudzinski.wantaolej.pro
 127.0.0.1 informacyjnesledztwo.click
 127.0.0.1 popads.net
 127.0.0.1 adv.s8bbs.com
@@ -25301,6 +25336,7 @@
 127.0.0.1 analytics.holidayinn.com
 127.0.0.1 glorian-invest.pro
 127.0.0.1 bdnad1.bangornews.com
+127.0.0.1 www.customeraccount.dns.army
 127.0.0.1 goblin.hupu.com
 127.0.0.1 dealtoe.click
 127.0.0.1 traffic.hostedstatus.page
@@ -25349,6 +25385,7 @@
 127.0.0.1 otheve.beacon.qq.com
 127.0.0.1 vixar.pro
 127.0.0.1 adserver.creative-asia.com
+127.0.0.1 esidemen-fad218.ingress-haven.ewp.live
 127.0.0.1 maskatwo.maskproj.click
 127.0.0.1 d7.sinaimg.cn
 127.0.0.1 tools.ad-net.co.uk
@@ -25676,6 +25713,7 @@
 127.0.0.1 pub-c7f881ad48694be58a393f7ff57817db.r2.dev
 127.0.0.1 ads.world-fusigi.net
 127.0.0.1 advancedoffersapps.com
+127.0.0.1 www.xg.ullz.lat
 127.0.0.1 adview.com
 127.0.0.1 ads14-normal.zijieapi.com
 127.0.0.1 union.56.com
@@ -25813,6 +25851,7 @@
 127.0.0.1 click1forhz.adsmogo.com
 127.0.0.1 636e65919dd8bbec47166bada3880cea.nmdj.pl
 183.136.207.132 hugeota.d.miui.com
+127.0.0.1 wowjest.click
 127.0.0.1 b.vlion.cn
 127.0.0.1 ad.autorace.jp
 127.0.0.1 shoplienquan.click
