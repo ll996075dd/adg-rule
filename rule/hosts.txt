@@ -1,4 +1,4 @@
-# Update time: 2024-09-26 00:31:45
+# Update time: 2024-09-26 09:46:48
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -770,6 +770,7 @@
 127.0.0.1 www.parfaitesfrosted.pro
 127.0.0.1 advert.ananzi.co.za
 127.0.0.1 www.adwo.com
+127.0.0.1 contactpackage-ns02.dns.army
 127.0.0.1 zolinton-invest.pro
 127.0.0.1 pamietajoszczesliwianiu.click
 127.0.0.1 analytics.nianticlabs.com
@@ -5512,6 +5513,7 @@
 127.0.0.1 www.bitcoinup-pro.com
 127.0.0.1 media-ads.zaloapp.com
 127.0.0.1 madslimz.com
+127.0.0.1 www.customerconnect.dns.army
 127.0.0.1 iad02-search.spotxchange.com
 127.0.0.1 ads.ere.net
 127.0.0.1 wirtualnyswiat.click
@@ -17331,6 +17333,7 @@
 127.0.0.1 wiescwojewodzka.click
 127.0.0.1 api.coolguang.com
 127.0.0.1 banner.5giay.vn
+127.0.0.1 www.contactpackage-ns02.dns.army
 127.0.0.1 informacyjnyportal.click
 127.0.0.1 steam-card50.pro
 127.0.0.1 adstextview.qq.com
@@ -18489,6 +18492,7 @@
 127.0.0.1 pl-konto.mobi
 127.0.0.1 s10.histas.ero-advertising.com
 127.0.0.1 cp-home-pl-ad19ba99990.solidinterimmanagement.nl
+127.0.0.1 customerconnect.dns.army
 127.0.0.1 ads.bnmedia.com
 127.0.0.1 pub-3e390ead569840acaffaf2acd0b66945.r2.dev
 127.0.0.1 adserver.magazyn.pl
