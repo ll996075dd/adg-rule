@@ -1,4 +1,4 @@
-# Update time: 2024-09-27 00:29:03
+# Update time: 2024-09-27 09:47:59
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -11609,6 +11609,7 @@
 127.0.0.1 proklamacyjnosc.click
 127.0.0.1 bank18.ads.dt.mydas.mobi
 127.0.0.1 moje-olx.newumowa098236.click
+127.0.0.1 tysupuo7.pro
 127.0.0.1 ads.dandelionchocolate.jp
 127.0.0.1 juiceadv.com
 127.0.0.1 www.share.polinvst.com
