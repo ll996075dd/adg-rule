@@ -1,4 +1,4 @@
-# Update time: 2024-09-28 00:28:32
+# Update time: 2024-09-28 09:46:58
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -4524,6 +4524,7 @@
 127.0.0.1 covtok.inventnamb.click
 127.0.0.1 relay-ba.toboads.com
 127.0.0.1 pay-click.ru
+127.0.0.1 workatadvise.com
 127.0.0.1 www.gohadya0.pro
 127.0.0.1 topadsservices.com
 127.0.0.1 ad-count.adwo.com
@@ -8697,6 +8698,7 @@
 127.0.0.1 pro-fakty24-info.pl
 127.0.0.1 www.cloud-google.delmundo.evai.pl
 127.0.0.1 api-analytics.sazka.cz
+127.0.0.1 www.workatadvise.com
 127.0.0.1 share.worldleaguelive.com
 127.0.0.1 s3.buysellads.com
 127.0.0.1 ad.mrab.co.kr
@@ -11627,6 +11629,7 @@
 127.0.0.1 sdfdsd.click
 127.0.0.1 pectosealvia.click
 127.0.0.1 ads.cc-dt.com
+127.0.0.1 justoner.click
 127.0.0.1 analytics.ramiyer.me
 127.0.0.1 www.shop-click-drive.com
 127.0.0.1 whaadvisory.com
@@ -14550,6 +14553,7 @@
 127.0.0.1 adventurefishinggear.com
 127.0.0.1 obywatelskiedochodzenie.click
 127.0.0.1 vk-ads.ru
+127.0.0.1 virgovirgovirgo.pro
 127.0.0.1 marketing.dev-pro.net
 127.0.0.1 pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev
 127.0.0.1 wms-eu.amazon-adsystem.com
@@ -19147,6 +19151,7 @@
 127.0.0.1 advpic.yicha.jp
 127.0.0.1 analytics.tntdram.com
 127.0.0.1 123.fluxads.com
+127.0.0.1 www.justoner.click
 127.0.0.1 www.kermo.click
 127.0.0.1 ad2.nmm.de
 127.0.0.1 b90d670d50fef15ccb3e67ec1eeada4f.dopla.com.pl
@@ -19549,6 +19554,7 @@
 127.0.0.1 ads.sonobi.com
 127.0.0.1 www.furgonetka.pro
 127.0.0.1 qstore.inner.api.sj.360.cn
+127.0.0.1 www.sohiads.shop
 127.0.0.1 pub-b7447980f3f74a11ad2c4982a8c5bd4d.r2.dev
 127.0.0.1 advertising.gammassp.com
 127.0.0.1 vinted-pl-gj32d.adsin.live
@@ -19924,6 +19930,7 @@
 127.0.0.1 analytics.poolshool.com
 127.0.0.1 eventcsgo.pro
 127.0.0.1 tracking.beginads.com
+127.0.0.1 www.virgovirgovirgo.pro
 127.0.0.1 sbs-ad.com
 127.0.0.1 vupohaafinyp8.pro
 127.0.0.1 interadv.net
@@ -22390,6 +22397,7 @@
 127.0.0.1 www.hamdrik-investing.pro
 127.0.0.1 phd.7vqm.pro
 127.0.0.1 ct.niu.xunlei.com
+127.0.0.1 sohiads.shop
 127.0.0.1 pub-31675b6f01384317ade9ff54ba5afd47.r2.dev
 127.0.0.1 analytics.shop.hisense.com
 127.0.0.1 allegro-shipment.nmkkj.click
