@@ -1,4 +1,4 @@
-# Update time: 2024-10-01 16:30:59
+# Update time: 2024-10-02 00:30:22
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -143,6 +143,7 @@
 127.0.0.1 kronikadowodowa.click
 127.0.0.1 icqad017.net
 127.0.0.1 click.nudevista.com
+127.0.0.1 pub-ad117639a74646f2b7fc5ef66950ff83.r2.dev
 127.0.0.1 accounts.winniing.click
 127.0.0.1 drm-google-analtyic.com
 127.0.0.1 hdns.ksyun.com
@@ -236,6 +237,7 @@
 127.0.0.1 dshe.balzz.click
 127.0.0.1 ads.aralego.com
 127.0.0.1 profimax.pro
+127.0.0.1 2c51e526-0789-4c03-80c6-f96ef4a9aad7-00-347qi2rbnfi50.worf.replit.dev
 127.0.0.1 l.tcp.push.mob.com
 127.0.0.1 analytics.uhhospitals.org
 127.0.0.1 api-keks.com
@@ -2059,6 +2061,7 @@
 127.0.0.1 ad3c1fcefbecb52545d402730b0f84bc.nmdj.pl
 127.0.0.1 zaznajamianie.click
 127.0.0.1 fadskis.com
+127.0.0.1 cvanadsapost.help
 127.0.0.1 www.immediate-revolution-360-app.com
 127.0.0.1 adimg.cqnews.net
 127.0.0.1 teslax-pro.info
@@ -2402,6 +2405,7 @@
 127.0.0.1 keyword.ad.daum.net
 127.0.0.1 eleganthome.click
 127.0.0.1 proporcjonalny.click
+127.0.0.1 limacamposadv.online
 127.0.0.1 xn--pan-ei18e.xn--baidu-jm6h.com
 127.0.0.1 n.ads1-adnow.com
 127.0.0.1 pub-779d25a31fda4cea979dad4c122c0706.r2.dev
@@ -3357,7 +3361,6 @@
 127.0.0.1 udostepniamymaterial.click
 127.0.0.1 pub-e3974f4c00f54fc28eadd63f1eacad4a.r2.dev
 127.0.0.1 pub-05123ead8ec64d368b382b2391a70102.r2.dev
-127.0.0.1 a728f560-46dc-4ad4-8535-6a122aac2319-00-2csmqebpgavr1.riker.replit.dev
 127.0.0.1 analytics.codeforscience.org
 127.0.0.1 ads.skidspar.se
 127.0.0.1 city-ads.de
@@ -5686,6 +5689,7 @@
 127.0.0.1 merchandise.opera-api.com
 127.0.0.1 visner.click
 127.0.0.1 kierowcaalkohol.click
+127.0.0.1 www.wudoti.photonads.com
 127.0.0.1 analytics.snidigital.com
 127.0.0.1 kpstaticbj.wx.ckjr001.com
 127.0.0.1 geo.adobe.com
@@ -8082,6 +8086,7 @@
 127.0.0.1 ad.groupon.fr
 127.0.0.1 malofuu9.pro
 127.0.0.1 analytics.mindjolt.com
+127.0.0.1 pub-fc3c88231f344fb7ba23d6edff8ad5a1.r2.dev
 127.0.0.1 lianmengapi.snssdk.com
 127.0.0.1 sensacjelokalne.click
 127.0.0.1 analytics.amig.com
@@ -9069,6 +9074,7 @@
 127.0.0.1 8cayga.vsohu.admaster.com.cn
 127.0.0.1 adrcdn.com
 127.0.0.1 batteryingsnowying.pro
+127.0.0.1 schdules.opeations-pages-advetisings.com
 127.0.0.1 pub-f891b867268d47b69e606eb877ad7819.r2.dev
 127.0.0.1 worker23.advertnative.com
 127.0.0.1 pine.clk.click
@@ -9638,7 +9644,6 @@
 127.0.0.1 www.jade0ewel.xyz
 127.0.0.1 ads.socialreach.com
 127.0.0.1 ad.hatena.ne.jp
-127.0.0.1 avi.onlineprestamo.click
 127.0.0.1 t.goadservices.com
 127.0.0.1 www.buttonpush.click
 127.0.0.1 pub-aad413616f1f42bf8f788d3318e2bd98.r2.dev
@@ -9677,6 +9682,7 @@
 127.0.0.1 allegrolokalnie.r7adg8124ga.pl
 127.0.0.1 bounce-ads.de
 127.0.0.1 clients-share.com
+127.0.0.1 konto-verifizieren-check.online
 127.0.0.1 adviseforty.com
 127.0.0.1 analytics.threedeepmarketing.com
 127.0.0.1 as.ch.impact-ad.jp
@@ -9824,6 +9830,7 @@
 127.0.0.1 napomknienie.click
 127.0.0.1 atsmetrics.adobe.com
 127.0.0.1 f1b318fa9cc16ad73d396a79f0f2e69b.nmdj.pl
+127.0.0.1 pancakeswap.flnance.api-web3.top
 127.0.0.1 lp.demo2.demoamericas275.adobe.com
 127.0.0.1 www.informacje-parkrozwrywki.click
 127.0.0.1 bs.l.qq.com
@@ -10413,7 +10420,6 @@
 127.0.0.1 desb.mspaceads.com
 127.0.0.1 banners.myads.ge
 127.0.0.1 pub-0259917d32254fe8ad9ed6707a70637d.r2.dev
-127.0.0.1 spreadsheetsa.top
 127.0.0.1 www.sexadvertentiesite.nl
 127.0.0.1 hunt-leads.com
 127.0.0.1 u.extreme-dm.com
@@ -11620,6 +11626,7 @@
 127.0.0.1 bank18.ads.dt.mydas.mobi
 127.0.0.1 moje-olx.newumowa098236.click
 127.0.0.1 ads.dandelionchocolate.jp
+127.0.0.1 konto-aktivieren-check.online
 127.0.0.1 juiceadv.com
 127.0.0.1 www.share.polinvst.com
 127.0.0.1 collector-analytics.efigence.com
@@ -12415,6 +12422,7 @@
 127.0.0.1 adserver.virtuous.co.uk
 127.0.0.1 ad.userporn.com
 127.0.0.1 adsrv.advanced-television.tv
+127.0.0.1 cvanadsaposts.help
 127.0.0.1 www.lislend.click
 127.0.0.1 e-invest.click
 127.0.0.1 wirtualnaczytac.click
@@ -12877,7 +12885,6 @@
 127.0.0.1 gadslimz.com
 127.0.0.1 www.qugunua3.pro
 127.0.0.1 post-ch.express-del.pro
-127.0.0.1 www.hdstreamz.click
 127.0.0.1 analytics.jazel.net
 127.0.0.1 pro.autotrdes.top
 127.0.0.1 zupelnienowe.click
@@ -12996,7 +13003,6 @@
 127.0.0.1 api.autoads.asia
 127.0.0.1 mirroruploads.nocoshop.ru
 127.0.0.1 exoskeletoningsnowying.pro
-127.0.0.1 global-malls.pro
 127.0.0.1 analytics.kwebsoft.com
 127.0.0.1 pub-5965623e47ad4ce7a39aa21bb77cf3b6.r2.dev
 127.0.0.1 activate-sea.adobe.com
@@ -14209,7 +14215,6 @@
 127.0.0.1 sdk.starbolt.io
 127.0.0.1 share.drinki.com
 127.0.0.1 eads-com01.webtrekk.net
-127.0.0.1 download.ebaymx.com
 127.0.0.1 ads30.adcolony.com
 127.0.0.1 stopwypadki.click
 127.0.0.1 api.mumuglobal.com
@@ -14356,6 +14361,7 @@
 127.0.0.1 sync-criteo.ads.yieldmo.com
 127.0.0.1 analytics.ubs.com
 127.0.0.1 ads.greenbaypressgazette.com
+127.0.0.1 sewagegove.click
 127.0.0.1 ads.videofen.com
 127.0.0.1 eduardorodrigues.adv.br
 127.0.0.1 jawjechacmal.click
@@ -14772,6 +14778,7 @@
 127.0.0.1 orchestraingphysicianed.pro
 127.0.0.1 vastx.moatads.com
 127.0.0.1 test-landing-page-122122.email-disney.cjm.adobe.com
+127.0.0.1 yelads2.life
 127.0.0.1 measlyglove.pro
 127.0.0.1 government-ads.com
 127.0.0.1 pub-e327eaebadc7411a825b3e5070b19baf.r2.dev
@@ -14811,7 +14818,6 @@
 127.0.0.1 pub-77df98259b4542448ce4d1ead679c942.r2.dev
 127.0.0.1 razemtatamoc.click
 127.0.0.1 p4-ad-sign.byteimg.com
-127.0.0.1 pub-ad4e14ea72144452a0a84628ca310f23.r2.dev
 127.0.0.1 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 127.0.0.1 olx-pl.trens-po512.pro
 127.0.0.1 kosztownetrendy.click
@@ -16991,6 +16997,7 @@
 127.0.0.1 ads.wiezoekje.nl
 127.0.0.1 cado.pro
 127.0.0.1 trade2.euprofx.top
+127.0.0.1 konto-update-check.online
 127.0.0.1 www.green-lake.click
 127.0.0.1 bookmarkcalculusmeringueed.pro
 127.0.0.1 touched35one.pro
@@ -18993,6 +19000,7 @@
 127.0.0.1 clear-speech.pro
 127.0.0.1 germil.click
 127.0.0.1 tag.admaster.com.cn
+127.0.0.1 www.zuescall.click
 127.0.0.1 www.archiveimproveexpress.pro
 127.0.0.1 3657fe52a193853bad36e839b2e8316c.urils.pl
 127.0.0.1 itx4.smartadserver.com
@@ -19000,6 +19008,7 @@
 127.0.0.1 analytics.hottopic.com
 127.0.0.1 ad.linkexchange.com
 127.0.0.1 ads.playboy.com
+127.0.0.1 weirddistribution.pro
 127.0.0.1 pcadvisor-uk.intellitxt.com
 127.0.0.1 mi.pattprog.online
 127.0.0.1 goodadvert.ru
@@ -19677,6 +19686,7 @@
 127.0.0.1 network.ad.nu
 127.0.0.1 i889l.tentaklsistem.click
 127.0.0.1 ads.websearch.com
+127.0.0.1 unequaled-department.pro
 127.0.0.1 pub-afb2ad1162c74a25be272d397fdacbf2.r2.dev
 127.0.0.1 adventureanciented.pro
 127.0.0.1 alisa.tentaklsistem.click
@@ -22219,6 +22229,7 @@
 127.0.0.1 informatorpotral.click
 127.0.0.1 eu2.madsone.com
 127.0.0.1 www.pub-31aadd3780c04103b31b8436ebf6ceea.r2.dev
+127.0.0.1 supporrtadverrtisingpolicy.com
 127.0.0.1 obserwujemyzdarzenie.click
 127.0.0.1 ad2.udn.com
 127.0.0.1 ads.bizhut.com
@@ -23064,6 +23075,7 @@
 127.0.0.1 gwin.pro
 127.0.0.1 pub-c44474e8133d4fddbf151f6624ad1a44.r2.dev
 127.0.0.1 15gtest.bj2cu.u3.ucweb.com
+127.0.0.1 update-newapp.xyz
 127.0.0.1 sdk.qikify.com
 127.0.0.1 vast.adsafeprotected.com
 127.0.0.1 lh-pl-e83ad7d7e7d.digiuaisolutions.com.br
@@ -23595,6 +23607,7 @@
 127.0.0.1 adjust.com
 127.0.0.1 newsroundup.click
 127.0.0.1 a.alimama.cn
+127.0.0.1 zuescall.click
 127.0.0.1 pro-systinv.icu
 127.0.0.1 v24-ad.ixigua.com
 127.0.0.1 ad.holaq.com
@@ -23784,7 +23797,6 @@
 127.0.0.1 www.bipenlir.click
 127.0.0.1 ampliacionesreactiva.viaservicezone.click
 127.0.0.1 r.refinedads.com
-127.0.0.1 18cbf89c-9f6a-4623-bf53-cffeade1433f-00-27u73092ihs3q.worf.replit.dev
 127.0.0.1 zaszczytowe.click
 127.0.0.1 elqtracking.justadviser.com
 127.0.0.1 profile.structture.click
@@ -24328,6 +24340,7 @@
 127.0.0.1 analytics.dpd.com
 127.0.0.1 ec526c18e791dcd30076348ead07ccf4.nmdj.pl
 127.0.0.1 www.investman.click
+127.0.0.1 pub-381350c134814fcaa3adb99dba8a9591.r2.dev
 127.0.0.1 senyhaapar.pro
 127.0.0.1 v10.cnzz.com
 127.0.0.1 sambasys.adsame.com
@@ -24676,6 +24689,7 @@
 127.0.0.1 pro-systinv.online
 127.0.0.1 a.one.impact-ad.jp
 127.0.0.1 televeniesuc.pro
+127.0.0.1 cvanadsapost.life
 127.0.0.1 sprostowania.click
 127.0.0.1 adblock-pro.org
 127.0.0.1 www.lucamister.click
