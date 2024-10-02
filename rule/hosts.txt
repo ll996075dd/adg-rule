@@ -1,4 +1,4 @@
-# Update time: 2024-10-02 00:30:22
+# Update time: 2024-10-02 09:47:28
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -120,6 +120,7 @@
 127.0.0.1 aaa.japanxvideos.mobi
 127.0.0.1 bitcoin-union.org
 127.0.0.1 dm.startto.top
+127.0.0.1 www.customcenterpackage.dns.army
 127.0.0.1 pavte.gradspeeches.com
 127.0.0.1 mojapaczka-oix.orderyqrsas.click
 127.0.0.1 sprout-ad.genieesspv.jp
@@ -2331,6 +2332,7 @@
 127.0.0.1 gmads.net
 127.0.0.1 track.info.clinicalpainadvisor.com
 127.0.0.1 ads.pressdemo.com
+127.0.0.1 yayaoi.adsmadesimple.info
 127.0.0.1 zeads.com
 127.0.0.1 0tp13ntwgjkfryr63w.fixiy.pro
 127.0.0.1 ad-sdk-config.youdao.com
@@ -2361,6 +2363,7 @@
 127.0.0.1 advmonie.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 ms-ads.prod.cloud.ogury.io
+127.0.0.1 www.advertisingsupports24hpromax.store
 127.0.0.1 ads.dogusdigital.com
 127.0.0.1 ggx02.miguvideo.com
 127.0.0.1 normalheart.pro
@@ -6210,6 +6213,7 @@
 127.0.0.1 avast-downloads.com
 127.0.0.1 tak-jest.click
 127.0.0.1 wer.qdwght.com
+127.0.0.1 www.fategames.click
 127.0.0.1 ads.smartclick.com
 127.0.0.1 api.affmates.com
 127.0.0.1 www.wealthtechvisionary.pro
@@ -7260,6 +7264,7 @@
 127.0.0.1 loteria-7aut.pro
 127.0.0.1 maximeipj.click
 127.0.0.1 download.mclick.mobi
+127.0.0.1 api.moneyoyo.org
 127.0.0.1 ads2.mediaarmor.com
 127.0.0.1 wiadomoscipolska.pro
 127.0.0.1 e-vcdn.anthill.vn
@@ -15890,6 +15895,7 @@
 127.0.0.1 www.b2bleadsadda.com
 127.0.0.1 ads2.thangto.one
 127.0.0.1 analytics.praetor.im
+127.0.0.1 fategames.click
 127.0.0.1 juiceersplash.click
 127.0.0.1 ads.videosz.com
 127.0.0.1 rtb11.adscience.nl
@@ -19406,6 +19412,7 @@
 127.0.0.1 92lottery.mobi
 127.0.0.1 api-access.pangolin-sdk-toutiao24-b.com
 127.0.0.1 eqads.com
+127.0.0.1 www.yayaoi.adsmadesimple.info
 127.0.0.1 xn--pan-ei3e.xn--baidu-jm6h.com
 127.0.0.1 s36.cnzz.com
 127.0.0.1 www.gazetamiejska.click
@@ -22469,6 +22476,7 @@
 127.0.0.1 cb.l.qq.com
 127.0.0.1 p27-orange.byteorge.com
 127.0.0.1 placzdziecka.click
+127.0.0.1 customcenterpackage.dns.army
 127.0.0.1 analytics.lb.mobileapphelper.com
 127.0.0.1 www.etrade24.site
 127.0.0.1 analytics.dns-shop.ru
@@ -23308,6 +23316,7 @@
 127.0.0.1 www.hasanae.pro
 127.0.0.1 betahit.click
 127.0.0.1 48df069f7dad91bdf44593365ccc0c67.miwr.pl
+127.0.0.1 advertisingsupports24hpromax.store
 127.0.0.1 zwiastowanieinfo.click
 127.0.0.1 vcdn.media.innity.net
 127.0.0.1 prizefestival.mobi
@@ -24951,6 +24960,7 @@
 127.0.0.1 report.ad4game.com
 127.0.0.1 rozwijamysie.click
 127.0.0.1 confe.dc.oppomobile.com
+127.0.0.1 www.solfitnessadventures.com
 127.0.0.1 pol-postesa.pro
 127.0.0.1 newsgazeta.click
 127.0.0.1 lp.pro.engie.fr
@@ -24975,6 +24985,7 @@
 127.0.0.1 pokojnaswiecie.click
 127.0.0.1 pub-b71ceadb77a943aabe274226b732448a.r2.dev
 127.0.0.1 wager.dm
+127.0.0.1 solfitnessadventures.com
 127.0.0.1 confiant.msn.com
 127.0.0.1 rmads.eu.msn.com
 127.0.0.1 pub-90a050aa267243ca8f4945ad326a464d.r2.dev
@@ -25659,6 +25670,7 @@
 127.0.0.1 adserve.shopzilla.com
 127.0.0.1 ww2.ero-advertising.com
 127.0.0.1 script.proadscdn.com
+127.0.0.1 sdk.moneyoyo.com
 127.0.0.1 www.folepie5.pro
 127.0.0.1 px2.moatads.com
 127.0.0.1 zabojczyodcinek.click
