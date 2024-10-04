@@ -1,4 +1,4 @@
-# Update time: 2024-10-04 00:29:06
+# Update time: 2024-10-04 09:48:05
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -203,6 +203,7 @@
 127.0.0.1 c.msn.com.cn
 127.0.0.1 vs14.bj2ct.u3.ucweb.com
 127.0.0.1 check.autotrdes.top
+127.0.0.1 mob.digitkin.top
 127.0.0.1 adimg.uimserv.net
 127.0.0.1 setytio5.pro
 127.0.0.1 ads.iwangmedia.com
@@ -4321,6 +4322,7 @@
 127.0.0.1 shell.muhammadshaheryar.com
 127.0.0.1 porecty.click
 127.0.0.1 ads.imeem.com
+127.0.0.1 www.stadvip.com
 127.0.0.1 ad.gametower.com.tw
 127.0.0.1 ads19-normal-hl.zijieapi.com
 127.0.0.1 ads.horsehero.com
@@ -6579,6 +6581,7 @@
 127.0.0.1 analytics.naturequant.com
 127.0.0.1 regadsworld.com
 127.0.0.1 adtag.ad.smaato.net
+127.0.0.1 stadvip.com
 127.0.0.1 utility.baidu.com
 127.0.0.1 opposesmartadvertising.com
 127.0.0.1 ads3.virtual-nights.com
@@ -16432,6 +16435,7 @@
 127.0.0.1 pub-e944680d890c492cb6ad9ae96cbe621b.r2.dev
 127.0.0.1 pub-907e6dd0bfd3445a95f0313f01f7ad86.r2.dev
 127.0.0.1 adserver.harktheherald.com
+127.0.0.1 www.currenccybuzz.click
 127.0.0.1 reportazuliczny.click
 127.0.0.1 muikdok-invest.pro
 127.0.0.1 syndication.exdynsrv.com
@@ -17506,6 +17510,7 @@
 127.0.0.1 ads.collegemix.com
 127.0.0.1 m1.analytics.sitevision-cloud.se
 127.0.0.1 ploffelon.pro
+127.0.0.1 promojustforyou.click
 127.0.0.1 analytics-stamp.confi.com.vc
 127.0.0.1 analytics.crea.ca
 127.0.0.1 native-adserver.com
@@ -20894,6 +20899,7 @@
 127.0.0.1 www.qvaliti-invest.pro
 127.0.0.1 244f4856cbb0ee16cc601e5512ad1664.nmdj.pl
 127.0.0.1 liftptxk.click
+127.0.0.1 currenccybuzz.click
 127.0.0.1 adjust-local-settings.com
 127.0.0.1 engine.nectarads.com
 127.0.0.1 www.sectoredfloristed.pro
