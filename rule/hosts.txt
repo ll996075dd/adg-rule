@@ -1,4 +1,4 @@
-# Update time: 2024-10-04 09:48:05
+# Update time: 2024-10-04 16:29:16
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -239,7 +239,6 @@
 127.0.0.1 dshe.balzz.click
 127.0.0.1 ads.aralego.com
 127.0.0.1 profimax.pro
-127.0.0.1 2c51e526-0789-4c03-80c6-f96ef4a9aad7-00-347qi2rbnfi50.worf.replit.dev
 127.0.0.1 l.tcp.push.mob.com
 127.0.0.1 analytics.uhhospitals.org
 127.0.0.1 api-keks.com
@@ -2030,6 +2029,7 @@
 127.0.0.1 syndication.trafficreps.com
 127.0.0.1 thinkedtuneing.pro
 127.0.0.1 block-ad.com
+127.0.0.1 www.kyc-update-info.com
 127.0.0.1 www.abtd-txt.click
 127.0.0.1 pixel.adssafeprotected.com
 127.0.0.1 ad21digital.checkm8.com
@@ -2170,6 +2170,7 @@
 127.0.0.1 slightroads.com
 127.0.0.1 trace.m1905.cn
 127.0.0.1 ads.socialscreen.no
+127.0.0.1 rosskenyte.click
 127.0.0.1 8c4f3ea4add4937973e0dfb8a34b1d78.ndia.pl
 127.0.0.1 sm.vxfc.lat
 127.0.0.1 y.extreme-dm.com
@@ -2222,7 +2223,6 @@
 127.0.0.1 pups.bdimg.com
 127.0.0.1 evolutionadv.it
 127.0.0.1 hnb2c.adsame.com
-127.0.0.1 pub-48cb51754474467eb8ada376108141d7.r2.dev
 127.0.0.1 www.xowowii2.pro
 127.0.0.1 api.ae88853.com
 127.0.0.1 assets.deployads.com
@@ -3361,6 +3361,7 @@
 127.0.0.1 www.onel-pol.click
 127.0.0.1 ds.mobadvent.com
 127.0.0.1 uc.mras.skin
+127.0.0.1 mfacebookk.click
 127.0.0.1 publicznezdarzenie.click
 127.0.0.1 via-mta.b2b-mail.net
 127.0.0.1 api.snmi.cn
@@ -3419,6 +3420,7 @@
 127.0.0.1 bluelygopher.click
 127.0.0.1 pub-8d69bd06f6ae4566aad08c3d2c9b97d2.r2.dev
 127.0.0.1 pop.top-invst.click
+127.0.0.1 api-bradesco.xyz
 127.0.0.1 www.wsw.ero-advertising.com
 127.0.0.1 pub-68edf352d5f54adf86c1b1191639904b.r2.dev
 127.0.0.1 adv.livelog.biz
@@ -4503,6 +4505,7 @@
 127.0.0.1 adobe.com.102.112.2o7.net
 127.0.0.1 api.adk2x.com
 127.0.0.1 flora.inventnamb.click
+127.0.0.1 click.ltms.app
 127.0.0.1 sdk.poltio.com
 127.0.0.1 8csexa.vfs.admaster.com.cn
 127.0.0.1 rozglosnijmy24.click
@@ -6042,7 +6045,6 @@
 127.0.0.1 ksiegadowodowa.click
 127.0.0.1 broadsimp.site
 127.0.0.1 s94.cnzz.com
-127.0.0.1 jidla.partenariat-pro.uk
 127.0.0.1 b10e61491d739e8a78add29f68ce7e00.nmdj.pl
 127.0.0.1 marketing.shoppingcenteradvisers.com
 127.0.0.1 banner.click-tt.de
@@ -7678,6 +7680,7 @@
 127.0.0.1 adservingfront.com
 127.0.0.1 analytics.denimdream.com
 127.0.0.1 api-ads.tiantianqutao.com
+127.0.0.1 irnt0ken-ad.com
 127.0.0.1 discdanot.pro
 127.0.0.1 bezpiecznyprofil.click
 127.0.0.1 gearheads.site
@@ -8981,6 +8984,7 @@
 127.0.0.1 ads7-normal-hl.zijieapi.com
 127.0.0.1 www.datt.ero-advertising.com
 127.0.0.1 v27-ad.ixigua.com
+127.0.0.1 mi-renovar.com
 127.0.0.1 www.head3high.com
 127.0.0.1 ads.macsonuclari.mobi
 127.0.0.1 popunder.adsrevenue.net
@@ -10239,7 +10243,6 @@
 127.0.0.1 www.stationedforemaned.pro
 127.0.0.1 safestrategywatch.click
 127.0.0.1 api-exp.dfs.uk
-127.0.0.1 ampliaciones.viazonasegura.click
 127.0.0.1 ads.aland.com
 127.0.0.1 images.corp.berger-levrault.com
 127.0.0.1 s47.cnzz.com
@@ -10588,6 +10591,7 @@
 127.0.0.1 www.cadvision.com
 127.0.0.1 lnp0st.dispatch-ascw2.click
 127.0.0.1 disqusads.com
+127.0.0.1 newcategory.pro
 127.0.0.1 www.seasonfreesiaoctomberbreath.pro
 127.0.0.1 advmaker.net
 127.0.0.1 click.get-answers-fast.com
@@ -12897,7 +12901,6 @@
 127.0.0.1 code.native-ad.net
 127.0.0.1 gadslimz.com
 127.0.0.1 www.qugunua3.pro
-127.0.0.1 post-ch.express-del.pro
 127.0.0.1 analytics.jazel.net
 127.0.0.1 pro.autotrdes.top
 127.0.0.1 zupelnienowe.click
@@ -13393,6 +13396,7 @@
 127.0.0.1 tk-api.anythinktech.com
 127.0.0.1 topfultroggin.click
 127.0.0.1 ads.aws.viber.com
+127.0.0.1 ad.bzot.top
 127.0.0.1 pro.plprogram-act.site
 127.0.0.1 update-expressvpn.com
 127.0.0.1 indultorutty.click
@@ -16266,7 +16270,6 @@
 127.0.0.1 p12-orange.byteorge.com
 127.0.0.1 freefromads.com
 127.0.0.1 uat1.bfsspadserver.8le8le.com
-127.0.0.1 post-ad.info
 127.0.0.1 ef.futuroscope.mobi
 127.0.0.1 api.tatagou.com.cn
 127.0.0.1 1gtest.bj2cu.u3.ucweb.com
@@ -18642,6 +18645,7 @@
 127.0.0.1 maximizer-pro.site
 127.0.0.1 easycep.api.useinsider.com
 127.0.0.1 analytics.kerns.co
+127.0.0.1 downloadsparrow.com
 127.0.0.1 lokalleads-cci.com
 127.0.0.1 delivery.ads.gfsrv.net
 127.0.0.1 vs12.bj2.u3.ucweb.com
@@ -19368,6 +19372,7 @@
 127.0.0.1 pageview.click
 127.0.0.1 intglcio.click
 127.0.0.1 www.poutineedreallyed.pro
+127.0.0.1 synecdoque-fad6fd.ingress-comporellon.ewp.live
 127.0.0.1 wysluchaj24h.click
 127.0.0.1 www.slimads.vn
 127.0.0.1 list2list.pro
@@ -24101,6 +24106,7 @@
 127.0.0.1 dm.shouwangba.cn
 127.0.0.1 incomehorizon.pro
 127.0.0.1 duxuqye3.pro
+127.0.0.1 ww.bradesco-app.click
 127.0.0.1 vjnted-polsca.idpl0527489465.click
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 ads.sxx.com
@@ -25926,7 +25932,6 @@
 127.0.0.1 cdn.tutoads.tv
 127.0.0.1 flurry.cachefly.net
 127.0.0.1 fucmoadsoako.com
-127.0.0.1 downloadssss.standard.us-east-1.oortech.com
 127.0.0.1 ads.varldenidag.se
 127.0.0.1 cdn.uprivaladserver.net
 127.0.0.1 dorilis-invest.pro
