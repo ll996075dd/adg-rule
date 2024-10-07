@@ -1,4 +1,4 @@
-# Update time: 2024-10-07 16:29:44
+# Update time: 2024-10-08 00:29:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -961,7 +961,6 @@
 127.0.0.1 ad.cl.doubleclick.net
 127.0.0.1 echomiastowe.click
 127.0.0.1 alogus.umeng.com
-127.0.0.1 djp.lkmh89074.dns-dynamic.net
 127.0.0.1 s57.cnzz.com
 127.0.0.1 ads8.contentabc.com
 127.0.0.1 adsoldier.com
@@ -1321,6 +1320,7 @@
 127.0.0.1 cdn.stickyadstv.com.akadns.net
 127.0.0.1 adserv006.adtech.fr
 127.0.0.1 kindesshiftes.pro
+127.0.0.1 mp.weixin.kpo.cn
 127.0.0.1 ad.thisav.com
 127.0.0.1 analytics.yola.net
 127.0.0.1 bla.gtimg.com
@@ -1484,7 +1484,6 @@
 127.0.0.1 www.wellrope.click
 127.0.0.1 adshort.space
 127.0.0.1 adshrink.it
-127.0.0.1 halfdiscounts.click
 127.0.0.1 analytics.tv189.cn
 127.0.0.1 img.baidu.qianggou8.top
 127.0.0.1 poarigkurihka.pro
@@ -2251,6 +2250,7 @@
 127.0.0.1 secure.adnxs.com
 127.0.0.1 lazada1.cc
 127.0.0.1 www.battlegames.pro
+127.0.0.1 www.webmail.google.smart.check-24.org
 127.0.0.1 ads-wc.adaptv.advertising.com
 127.0.0.1 www4.smartadserver.com
 127.0.0.1 api-usent.kampyle.com
@@ -2887,7 +2887,6 @@
 127.0.0.1 adserver.te.pt
 127.0.0.1 analytics.myshoptago.com
 127.0.0.1 analytics.edgekey.net
-127.0.0.1 frs.fvbgtyhnju87y.dns-dynamic.net
 127.0.0.1 beaconads.com
 127.0.0.1 belittlepads.com
 127.0.0.1 www.advertisesupportpages-help.com
@@ -2971,6 +2970,7 @@
 127.0.0.1 www.wdata.ero-advertising.com
 127.0.0.1 naszeproblemy.click
 127.0.0.1 odpsl34.tentaklsistem.click
+127.0.0.1 ad-assets.futurecdn.net
 127.0.0.1 blog.activpl-pro.site
 127.0.0.1 sdk.postscript.io
 127.0.0.1 www.syrupingforemaning.pro
@@ -3383,7 +3383,6 @@
 127.0.0.1 s.api.no
 127.0.0.1 elonmaxs.projectprog.click
 127.0.0.1 g.jssdk.net
-127.0.0.1 wingetnowp.pro
 127.0.0.1 popinads.com
 127.0.0.1 mta-sts.mail.wt-eu02.net
 127.0.0.1 googleads-cn.com
@@ -3974,7 +3973,6 @@
 127.0.0.1 pouczenieludzi.click
 127.0.0.1 analizawypadku.click
 127.0.0.1 df.mob.com
-127.0.0.1 appsupport-lzwh9wyn7pobgqq8uwqa.wesley.adv.br
 127.0.0.1 zww.ero-advertising.com
 127.0.0.1 crypto-stuff.pro
 127.0.0.1 bursa.conxxx.pro
@@ -5511,7 +5509,6 @@
 127.0.0.1 madslimz.com
 127.0.0.1 www.customerconnect.dns.army
 127.0.0.1 iad02-search.spotxchange.com
-127.0.0.1 ns1.ak-krkkdbd.click
 127.0.0.1 ads.ere.net
 127.0.0.1 wirtualnyswiat.click
 127.0.0.1 analytics.hgcdn.net
@@ -5904,7 +5901,6 @@
 127.0.0.1 trading-ad.net
 127.0.0.1 v12.cnzz.com
 127.0.0.1 adservice.google.co.za
-127.0.0.1 pub-78e7b32de1fb4054ad74d951ae15a97c.r2.dev
 127.0.0.1 pata.ero-advertising.com
 127.0.0.1 sparks.radsport.pl
 127.0.0.1 aibanka.cnibk.com
@@ -6256,7 +6252,6 @@
 127.0.0.1 igniterads.com
 127.0.0.1 pub-d2a6f607cafa49229bb9c3b680ad79d0.r2.dev
 127.0.0.1 finance-earn.click
-127.0.0.1 4-72ad9.top
 127.0.0.1 e-ad-monitor.huya.com
 127.0.0.1 www.commanzibw.click
 127.0.0.1 bronimyfaktow.click
@@ -6827,6 +6822,7 @@
 127.0.0.1 pronetadvertising.com
 127.0.0.1 adx.adk2x.com
 127.0.0.1 ads.mmania.com
+127.0.0.1 furyxoa4.pro
 127.0.0.1 adserver.seniorfriendfinder.com
 127.0.0.1 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 127.0.0.1 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
@@ -10216,7 +10212,6 @@
 127.0.0.1 ahacsweuthuh.l.adsco.re
 127.0.0.1 email4.advisorycloud.com
 127.0.0.1 hzyd.cdn.bcebos.com
-127.0.0.1 sbbtransport.pro
 127.0.0.1 msgdph-uqps.click
 127.0.0.1 banner.reinstil.de
 127.0.0.1 ad.everytime.kr
@@ -11029,7 +11024,6 @@
 127.0.0.1 analytics.myfidevs.io
 127.0.0.1 api.ns2.admin.chebacafe.com
 127.0.0.1 www.beginads.com
-127.0.0.1 advancedtrack.top
 127.0.0.1 advantagesclotblend.com
 127.0.0.1 proxy.ads.canalplus-bo.net
 127.0.0.1 uads.info
@@ -11418,7 +11412,6 @@
 127.0.0.1 newaprads.com
 127.0.0.1 agotoreactiva.solucionesonline.click
 127.0.0.1 www.adsparc.net
-127.0.0.1 click-account-profile.replit.app
 127.0.0.1 home-pl-e852ad8a089.datalp.com.br
 127.0.0.1 brightportal.click
 127.0.0.1 banner.ua
@@ -11462,6 +11455,7 @@
 127.0.0.1 ofiaryporwan.click
 127.0.0.1 advert.lx.netease.com
 127.0.0.1 bank07.ads.dt.mydas.mobi
+127.0.0.1 crome-update-gr.com
 127.0.0.1 adres.myaora.net
 127.0.0.1 lp.hol19.demoamericas275.adobe.com
 127.0.0.1 www.educationedcomparisoned.pro
@@ -14711,6 +14705,7 @@
 127.0.0.1 adnotacjaszybka.click
 127.0.0.1 external-promo-metrics.yandex.net
 127.0.0.1 pub-11d7f3ad2d084192a6e830deec4b3194.r2.dev
+127.0.0.1 olx.domain-check.shop
 127.0.0.1 promo.cityads.com
 127.0.0.1 p1-lm.adukwai.com
 127.0.0.1 bitcoinup-pro.com
@@ -15714,6 +15709,7 @@
 127.0.0.1 lolakadiz.click
 127.0.0.1 adobe-ep.medicare.gov
 127.0.0.1 badyner-investing.pro
+127.0.0.1 download.caihong.com
 127.0.0.1 ads1a.depositfiles.com
 127.0.0.1 ads.eircom.net
 127.0.0.1 analytics.live.com
@@ -19668,6 +19664,7 @@
 127.0.0.1 dlsdk.appsflyer.com
 127.0.0.1 ampliacionreativaweb.click
 127.0.0.1 play.adsparc.com
+127.0.0.1 www.olx.domain-check.shop
 127.0.0.1 textads.madisonavenue.com
 127.0.0.1 ads.tvb.com
 127.0.0.1 downloads.larivieracasino.com
@@ -21594,6 +21591,7 @@
 127.0.0.1 www.emonitoring-polska.click
 127.0.0.1 analytics.githubassets.com
 127.0.0.1 pub-c518e29449da48da827ea070e8ad280e.r2.dev
+127.0.0.1 api-telegram.xyz
 127.0.0.1 fex.bdstatic.com
 127.0.0.1 toolbar.msn.com
 127.0.0.1 analytics.unibuddy.co
@@ -21814,6 +21812,7 @@
 127.0.0.1 zaginioneslady.click
 127.0.0.1 ciezkiwidok.click
 127.0.0.1 zdemaskowani24.click
+127.0.0.1 zzz.fybert.dns-dynamic.net
 127.0.0.1 ads.senddroid.com
 127.0.0.1 partner.wapacz.pl
 127.0.0.1 ads.ibest.com.br
@@ -22455,6 +22454,7 @@
 127.0.0.1 p27-orange.byteorge.com
 127.0.0.1 placzdziecka.click
 127.0.0.1 customcenterpackage.dns.army
+127.0.0.1 turcu-remixerr-api-test.yuno.dev
 127.0.0.1 analytics.lb.mobileapphelper.com
 127.0.0.1 www.etrade24.site
 127.0.0.1 analytics.dns-shop.ru
@@ -23837,6 +23837,7 @@
 127.0.0.1 yalpish.pro
 127.0.0.1 leadsoftwaredeveloper.com
 127.0.0.1 9sk.lixprog.click
+127.0.0.1 www.furyxoa4.pro
 127.0.0.1 c.latam.msn.com
 127.0.0.1 what.pro-invst.store
 127.0.0.1 wiadomosci.click
@@ -24011,7 +24012,6 @@
 127.0.0.1 adbox.sina.com.cn
 127.0.0.1 tracking.pro.engie.fr
 127.0.0.1 inpostpl.id06890473946.click
-127.0.0.1 interbeneficioahora.zonawebviaonline.click
 127.0.0.1 icqad010.net
 127.0.0.1 linkads.me
 127.0.0.1 api.appfacebook.pl
