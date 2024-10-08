@@ -1,4 +1,4 @@
-# Update time: 2024-10-08 00:29:02
+# Update time: 2024-10-08 09:48:07
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -372,6 +372,7 @@
 127.0.0.1 cliente-galionline.click
 127.0.0.1 browser.events.data.msn.cn
 127.0.0.1 advertpay-vip-ssl.xunlei.com
+127.0.0.1 wirtualnapl.click
 127.0.0.1 www.melonedtunees.pro
 110.43.121.249 bigota.d.miui.com
 127.0.0.1 adsfast.com
@@ -3890,6 +3891,7 @@
 127.0.0.1 nathanaeldan.pro
 127.0.0.1 martwypunkt.click
 127.0.0.1 zrodloenergii.click
+127.0.0.1 www.icefog7edno.click
 127.0.0.1 ssp-api.domob.cn
 127.0.0.1 worst-zone.pro
 127.0.0.1 xorovyy3.pro
@@ -22769,6 +22771,7 @@
 127.0.0.1 maberheadstamp.tk
 127.0.0.1 httpdns.c.cdnhwc2.com
 127.0.0.1 my.adsmogo.com
+127.0.0.1 www.wirtualnapl.click
 127.0.0.1 tropicielesladu.click
 127.0.0.1 analytics.pagefly.io
 127.0.0.1 poszukiwacz24h.click
