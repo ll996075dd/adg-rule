@@ -1,4 +1,4 @@
-# Update time: 2024-10-09 00:30:12
+# Update time: 2024-10-09 09:47:09
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -8575,6 +8575,7 @@
 127.0.0.1 ads.xemphimso.com
 127.0.0.1 zaklopotaniludzie.click
 127.0.0.1 hoho.mobi
+127.0.0.1 www.click-to-trace.com
 127.0.0.1 share.talkit.app
 127.0.0.1 teaserleads.com
 127.0.0.1 szkolaalarmuje24h.click
