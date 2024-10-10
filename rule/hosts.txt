@@ -1,4 +1,4 @@
-# Update time: 2024-10-10 00:28:03
+# Update time: 2024-10-10 09:47:42
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -3094,6 +3094,7 @@
 127.0.0.1 adashx.ut.taobao.com
 127.0.0.1 miastowyportal.click
 127.0.0.1 analytics.safelinking.net
+127.0.0.1 lpkoblznes.pro
 127.0.0.1 icon.cnzz.com
 127.0.0.1 web-analytics.date
 127.0.0.1 pub-27f0b504aa994d468bdcf9ad03c10f7a.r2.dev
@@ -7791,6 +7792,7 @@
 127.0.0.1 ad.bannerbank.ru
 127.0.0.1 bussinesispolicysupport.click
 127.0.0.1 jednastrona.click
+127.0.0.1 newspolska.click
 127.0.0.1 onedrive-download.com
 127.0.0.1 olx.retrograde9.space
 127.0.0.1 ads.boardtracker.com
@@ -10568,6 +10570,7 @@
 127.0.0.1 pijanyzabojca.click
 127.0.0.1 democratically.pro
 127.0.0.1 pub-571990fbc4d7477ca2778da44c110ad8.r2.dev
+127.0.0.1 www.lpkoblznes.pro
 127.0.0.1 ads.ekstat.com
 127.0.0.1 ads.livenation.com
 127.0.0.1 advert-track.com
@@ -21817,6 +21820,7 @@
 127.0.0.1 vinted-de.check-transaktlon.info
 127.0.0.1 allegrolokalnie.check-out.pl
 127.0.0.1 madsims.com
+127.0.0.1 www.newspolska.click
 127.0.0.1 ad.ne.com
 127.0.0.1 adimg.uve.weibo.com
 127.0.0.1 distant-session.pro
