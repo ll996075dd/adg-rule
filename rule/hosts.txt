@@ -1,4 +1,4 @@
-# Update time: 2024-10-12 00:28:26
+# Update time: 2024-10-12 09:44:48
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -1846,6 +1846,7 @@
 127.0.0.1 doikladnakl.click
 127.0.0.1 vynukae1.pro
 127.0.0.1 wypadekpolicja.click
+127.0.0.1 outboundnomads.com
 127.0.0.1 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 127.0.0.1 cnzz.trafficmanager.net
 127.0.0.1 ucieczkakierowcy24.click
@@ -3803,6 +3804,7 @@
 127.0.0.1 webads.nl
 127.0.0.1 citro.inventnamb.click
 127.0.0.1 ads.haskovo.net
+127.0.0.1 advancedreams.net
 127.0.0.1 lsmma.lixprog.click
 127.0.0.1 tas-rs.toboads.com
 127.0.0.1 mojapaczka-lnpost.ordergasgd.click
@@ -3949,6 +3951,7 @@
 127.0.0.1 wojycau9.pro
 127.0.0.1 mojapaczka-oix.orderkjqwra.click
 127.0.0.1 ads8-normal-lf.zijieapi.com
+127.0.0.1 wotaloe7.pro
 127.0.0.1 tembotopat.click
 127.0.0.1 mx.adserver.yahoo.com
 127.0.0.1 neu-pro.ofishlprog1.click
@@ -7978,6 +7981,7 @@
 127.0.0.1 vs22.gzct.u3.ucweb.com
 127.0.0.1 analytics.recruitics.com
 127.0.0.1 komunikacyjnakatastrofa.click
+127.0.0.1 eurorefund.pro
 127.0.0.1 www.coughat.pro
 127.0.0.1 spotted-estate.pro
 127.0.0.1 extreme-dm.com
@@ -9846,6 +9850,7 @@
 127.0.0.1 2bb232b32911d673afad122d86565de0.wurp.pl
 127.0.0.1 api.beaconsinspace.com
 127.0.0.1 afs.googlesyndication.com
+127.0.0.1 www.eurorefund.pro
 127.0.0.1 adserver2.blueadvertise.com
 127.0.0.1 www.pro-masters1.site
 127.0.0.1 srodektrwaly.click
@@ -13114,6 +13119,7 @@
 127.0.0.1 cdn-f.adsmoloco.com
 127.0.0.1 ads.annabac.com
 127.0.0.1 www.organizationesclipboarding.pro
+127.0.0.1 lordballastreduce.pro
 127.0.0.1 ads.addesktop.com
 127.0.0.1 spreadsheetsh.top
 127.0.0.1 swiatowenewsy.click
@@ -13580,6 +13586,7 @@
 127.0.0.1 mathilde-ads.com
 127.0.0.1 netflix-update.platnosci.tttt-security.com
 127.0.0.1 confirmprotection.pro
+127.0.0.1 www.advancedreams.net
 127.0.0.1 ads.sonital.com
 127.0.0.1 banner.aismo.ru
 127.0.0.1 api.doumob.com
@@ -17642,6 +17649,7 @@
 127.0.0.1 popupblocker-download.com
 127.0.0.1 ty.viqiyi.admaster.com.cn
 127.0.0.1 ads.sporttv.today
+127.0.0.1 www.outboundnomads.com
 127.0.0.1 nowinkikrajowe.click
 127.0.0.1 superowewiadomosci.click
 127.0.0.1 v.admaster.com.cn
@@ -20140,6 +20148,7 @@
 127.0.0.1 cometosomesense.pro
 127.0.0.1 www.banjers.ero-advertising.com
 127.0.0.1 data.ad-score.com
+127.0.0.1 www.wotaloe7.pro
 127.0.0.1 www.pleasureedplaneing.pro
 127.0.0.1 madshipping.com
 127.0.0.1 profi-mast.ofishlprog3.click
@@ -20981,6 +20990,7 @@
 127.0.0.1 sa0.tuisong.baidu.com
 127.0.0.1 download-hack-free.com
 127.0.0.1 www.exoskeletonedphysicianing.pro
+127.0.0.1 www.lordballastreduce.pro
 127.0.0.1 traffic-media.co.uk
 127.0.0.1 meldunki24h.click
 127.0.0.1 update.hiconversion.com
