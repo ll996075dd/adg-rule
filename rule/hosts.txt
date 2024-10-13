@@ -1,4 +1,4 @@
-# Update time: 2024-10-13 00:27:41
+# Update time: 2024-10-13 09:54:07
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -141,6 +141,7 @@
 127.0.0.1 abtd-txt.click
 127.0.0.1 easydestiny.click
 127.0.0.1 eu.event.cmp.advertising.com
+127.0.0.1 api-visitor-analytics.intercom.com
 127.0.0.1 pub-879871612ca142959804d328fad0a538.r2.dev
 127.0.0.1 www.arnaldorodrigues.adv.br
 127.0.0.1 kronikadowodowa.click
@@ -2001,6 +2002,7 @@
 127.0.0.1 texasadvisorgroup.com
 127.0.0.1 share.stayplus.com
 127.0.0.1 make.scitec.click
+127.0.0.1 ad.yo88.tv
 127.0.0.1 gam.adnxs.com
 127.0.0.1 www.goingapp.pro
 127.0.0.1 ad8.adfarm1.adition.com
@@ -2108,6 +2110,7 @@
 127.0.0.1 show-g.mediav.com
 127.0.0.1 scooteringtendencyes.pro
 127.0.0.1 secure-adnxs.edgekey.net
+127.0.0.1 jelosea0.pro
 127.0.0.1 onrt-stsdk.vivo.com.cn
 127.0.0.1 vinted-pl-id002c.naprzod345894.click
 127.0.0.1 ournet-analytics.com
@@ -6109,6 +6112,7 @@
 127.0.0.1 naukawiedza.click
 127.0.0.1 h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 127.0.0.1 ad.ddo.jp
+127.0.0.1 inpostpol.click
 127.0.0.1 lnpost-info.uid55005.click
 127.0.0.1 webid.ad.daum.net
 127.0.0.1 saurelhastif.click
@@ -8344,6 +8348,7 @@
 127.0.0.1 sms.mob.com
 127.0.0.1 ad34.checkm8.com
 127.0.0.1 windet-pl.szybko791432.click
+127.0.0.1 www.inpostpol.click
 127.0.0.1 vinted-pl-gj32d.advouf.top
 127.0.0.1 sygnalaktualnosci.click
 127.0.0.1 olx.pl.oferta-payment.pro
@@ -8940,6 +8945,7 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao23-b.com
 127.0.0.1 ads.sexspaces.com
 127.0.0.1 ad.fi.doubleclick.net
+127.0.0.1 i9.pro
 127.0.0.1 kyson.ad.daum.net
 127.0.0.1 a.ads1.msads.net
 127.0.0.1 cdn.discoveryad.castoola.tv
@@ -17195,6 +17201,7 @@
 127.0.0.1 gw.flurry.com
 127.0.0.1 waznywatek.click
 127.0.0.1 d3g.qq.com
+127.0.0.1 www.nelexiy9.pro
 127.0.0.1 analytics.services.kirra.nl
 127.0.0.1 api.maropost.com
 127.0.0.1 f2ce0893a62ad08f1306ed39ddda74a8.sixl.pl
@@ -20625,6 +20632,7 @@
 127.0.0.1 chainverd.click
 127.0.0.1 www.dla-piekna.click
 127.0.0.1 okropnesprawy.click
+127.0.0.1 nelexiy9.pro
 127.0.0.1 analytics-cdiscount.com
 127.0.0.1 adserver.abv.bg
 127.0.0.1 ad-mapps.com
@@ -21114,6 +21122,7 @@
 127.0.0.1 www.aiwealthwizard.pro
 127.0.0.1 ad.gamequyong.xyz
 127.0.0.1 analytics.metro-cc.ru
+127.0.0.1 www.jelosea0.pro
 127.0.0.1 portal-security-update.tiiny.site
 127.0.0.1 adserver.sextracker.com
 127.0.0.1 wdpro-mkt-prod2-lb.campaign.adobe.com
