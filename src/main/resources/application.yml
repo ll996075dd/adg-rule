@@ -12,7 +12,6 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://raw.githubusercontent.com/ll996075dd/Blacklist/main/1.txt' #Dan Pollock's List
       - 'https://github.tmby.shop/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #AdGuard DNS filter
       - 'https://ghp.ci/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #adguard
       - 'https://gitdl.cn/https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #AdAway Default Blocklist
