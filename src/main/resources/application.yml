@@ -12,19 +12,15 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://file-git.trli.club/file-hosts/ad-hosts/adblock'  #adblock-nocoin-list
       - 'https://file-git.trli.club/file-hosts/ad-hosts/hosts' #Scam Blocklist
       - 'https://raw.githubusercontent.com/ll996075dd/Blacklist/main/1.txt' #Dan Pollock's List
       - 'https://github.tmby.shop/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #AdGuard DNS filter
       - 'http://rssv.cn/adguard/api.php?type=black' #Peter Lowe's List
-      - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/2771936993/HG/main/yx.txt' #OISD Blocklist Basic
       - 'https://gitdl.cn/https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-adguardhome.txt' #AdAway Default Blocklist
       - 'https://mirror.ghproxy.com/https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all'
       - 'https://cdn.jsdelivr.net/gh/examplecode/ad-rules-for-xbrowser@master/core-rule-cn.txt'
-      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock.txt'
-      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock_lite.txt'
-      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock_plus.txt'
-      - 'https://cdn.jsdelivr.net/gh/uniartisan/adblock_list/adblock_privacy.txt'
+      - 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt'  # anti
+      - 'https://ghp.ci/raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
