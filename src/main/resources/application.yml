@@ -12,7 +12,6 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://file-git.trli.club/file-hosts/ad-hosts/hosts' #Scam Blocklist
       - 'https://raw.githubusercontent.com/ll996075dd/Blacklist/main/1.txt' #Dan Pollock's List
       - 'https://github.tmby.shop/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #AdGuard DNS filter
       - 'http://rssv.cn/adguard/api.php?type=black' #Peter Lowe's List
