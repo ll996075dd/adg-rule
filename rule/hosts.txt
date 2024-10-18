@@ -1,4 +1,4 @@
-# Update time: 2024-10-18 00:30:16
+# Update time: 2024-10-18 09:32:57
 # Repo URL: https://github.com/fordes123/adg-rule
 
 127.0.0.1 click.tz.simba.taobao.com
@@ -960,6 +960,7 @@
 127.0.0.1 www.dm.ajhe.lat
 127.0.0.1 ads.somd.com
 127.0.0.1 24-news.pro
+127.0.0.1 aa.birdgesdk.com
 127.0.0.1 szkolnepowiadomienie.click
 127.0.0.1 events-jp.splash-screen.net
 127.0.0.1 vinted.id29520.pro
@@ -8612,6 +8613,7 @@
 127.0.0.1 ads.xemphimso.com
 127.0.0.1 zaklopotaniludzie.click
 127.0.0.1 hoho.mobi
+127.0.0.1 www.click-to-trace.com
 127.0.0.1 share.talkit.app
 127.0.0.1 teaserleads.com
 127.0.0.1 szkolaalarmuje24h.click
@@ -11241,6 +11243,7 @@
 127.0.0.1 browser-statistik.de
 127.0.0.1 analytics.trutv.com
 127.0.0.1 cazojyi5yi7.pro
+127.0.0.1 pitk.birdgesdk.com
 127.0.0.1 sds.jerat.click
 127.0.0.1 fraudadvocacy.com
 127.0.0.1 cbzhk.lanzouz.com
@@ -11671,6 +11674,7 @@
 127.0.0.1 proklamacyjnosc.click
 127.0.0.1 bank18.ads.dt.mydas.mobi
 127.0.0.1 moje-olx.newumowa098236.click
+127.0.0.1 tysupuo7.pro
 127.0.0.1 ads.dandelionchocolate.jp
 127.0.0.1 juiceadv.com
 127.0.0.1 www.share.polinvst.com
@@ -24706,6 +24710,7 @@
 127.0.0.1 pb.adsparc.net
 127.0.0.1 dart.l.doubleclick.net
 127.0.0.1 download3.123cw.cn
+127.0.0.1 birdgesdk.com
 127.0.0.1 lottery.headlines.pw
 127.0.0.1 ads.img.globo.com
 127.0.0.1 kunvertads.com
@@ -24980,6 +24985,7 @@
 127.0.0.1 wct.click
 127.0.0.1 update.imedialang.com
 127.0.0.1 ad-ndtv.3s.com.vn
+127.0.0.1 bridgeoos.com
 127.0.0.1 coup-ling-dm.net
 127.0.0.1 downloadvps.blog
 127.0.0.1 www.partlyingmuleed.pro
